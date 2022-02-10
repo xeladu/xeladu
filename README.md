@@ -11,6 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Fix broken Android Flutter build after Upgrade](https://xeladu.medium.com/fix-broken-android-flutter-build-after-upgrade-be5533a56602?source=rss-ae1e6291afc3------2)
+- [Send push notifications from a Flutter app to devices with Firebase](https://levelup.gitconnected.com/send-push-notifications-from-a-flutter-app-to-devices-with-firebase-9c84ce58fe30?source=rss-ae1e6291afc3------2)
+- [Create Windows apps with Flutter](https://levelup.gitconnected.com/create-windows-apps-with-flutter-cd287c9a029c?source=rss-ae1e6291afc3------2)
+- [How Good Traceability Helps you Solve Problems Quicker in Software Projects](https://levelup.gitconnected.com/how-good-traceability-helps-you-solve-problems-quicker-in-software-projects-ad31929818fa?source=rss-ae1e6291afc3------2)
+- [Advanced tips for SpecFlow and Behavior-Driven Development in .NET](https://levelup.gitconnected.com/advanced-tips-for-specflow-and-behavior-driven-development-in-net-3dcf93dc2655?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
