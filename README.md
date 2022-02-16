@@ -36,8 +36,8 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### How you can support me
 
-If you like my articles, there are several ways how you can support me
-▶ ☕ [Buy me a coffee](https://medium.com/r/?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fxeladu)
-▶ 😊 [Donate via Paypal](https://medium.com/r/?url=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DJPWK39GGPAAFQ)
-▶ 💖 [Become a member via my referral link on Medium](https://xeladu.medium.com/membership), so that I get a small reward
-▶ ⭐ Star my GitHub profile with all code examples from my articles
+If you like my articles, there are several ways how you can support me<br /><br />
+▶ ☕ [Buy me a coffee](https://medium.com/r/?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fxeladu)<br />
+▶ 😊 [Donate via Paypal](https://medium.com/r/?url=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DJPWK39GGPAAFQ)<br />
+▶ 💖 [Become a member via my referral link on Medium](https://xeladu.medium.com/membership), so that I get a small reward<br />
+▶ ⭐ Star my GitHub profile with all code examples from my articles<br />
