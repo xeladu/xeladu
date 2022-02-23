@@ -11,8 +11,8 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [App management with winget on Windows](https://xeladu.medium.com/app-management-with-winget-on-windows-e668086a03f7?source=rss-ae1e6291afc3------2)
-- [Speed up old notebooks with Google ChromeOS Flex](https://levelup.gitconnected.com/speed-up-old-notebooks-with-google-chromeos-flex-3db16509b013?source=rss-ae1e6291afc3------2)
+- [How to install, update, and delete your Windows apps with winget](https://xeladu.medium.com/app-management-with-winget-on-windows-e668086a03f7?source=rss-ae1e6291afc3------2)
+- [How to speed up old notebooks with the new Google ChromeOS Flex](https://levelup.gitconnected.com/speed-up-old-notebooks-with-google-chromeos-flex-3db16509b013?source=rss-ae1e6291afc3------2)
 - [Flutter Mockito Package Cheat Sheet](https://levelup.gitconnected.com/flutter-mockito-package-cheat-sheet-ef49254ec62a?source=rss-ae1e6291afc3------2)
 - [I tried Car Sharing Apps to earn Money](https://medium.com/new-writers-welcome/i-tried-car-sharing-apps-to-earn-money-d03f12775afa?source=rss-ae1e6291afc3------2)
 - [Support other Writers with your Membership for Free](https://medium.com/new-writers-welcome/support-other-writers-with-your-membership-for-free-18b7a98bd1c6?source=rss-ae1e6291afc3------2)
