@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter app from scratch part 1 — planned features, app design, app skeleton](https://levelup.gitconnected.com/flutter-app-from-scratch-part-1-planned-features-app-design-app-skeleton-c87f2c21f47a?source=rss-ae1e6291afc3------2)
 - [Create a new Flutter project in three different ways](https://xeladu.medium.com/create-a-new-flutter-project-in-three-different-ways-a5ace80195b9?source=rss-ae1e6291afc3------2)
 - [How to install packages in your Flutter app](https://xeladu.medium.com/how-to-install-packages-in-your-flutter-app-e7f7e62711ee?source=rss-ae1e6291afc3------2)
 - [How to install, update, and delete your Windows apps with winget](https://xeladu.medium.com/app-management-with-winget-on-windows-e668086a03f7?source=rss-ae1e6291afc3------2)
 - [How to speed up old notebooks with the new Google ChromeOS Flex](https://levelup.gitconnected.com/speed-up-old-notebooks-with-google-chromeos-flex-3db16509b013?source=rss-ae1e6291afc3------2)
-- [Flutter Mockito Package Cheat Sheet](https://levelup.gitconnected.com/flutter-mockito-package-cheat-sheet-ef49254ec62a?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
