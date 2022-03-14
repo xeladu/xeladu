@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How bad hardware can ruin a software developer’s workday](https://levelup.gitconnected.com/how-bad-hardware-can-ruin-a-software-developers-workday-34c3b6ebe33f?source=rss-ae1e6291afc3------2)
+- [How to fix a broken branch after a git merge or git rebase](https://levelup.gitconnected.com/how-to-fix-a-broken-branch-after-a-git-merge-or-git-rebase-4ca61c0cb6fd?source=rss-ae1e6291afc3------2)
+- [Flutter app from scratch part 3 — building the user interface and managing state](https://levelup.gitconnected.com/flutter-app-from-scratch-part-3-building-the-user-interface-and-managing-state-dd2bb7dffbec?source=rss-ae1e6291afc3------2)
 - [Flutter app from scratch part 2 — define models and set up database](https://levelup.gitconnected.com/flutter-app-from-scratch-part-2-define-models-and-set-up-database-78a67666527a?source=rss-ae1e6291afc3------2)
 - [Flutter app from scratch part 1 — planned features, app design, app skeleton](https://levelup.gitconnected.com/flutter-app-from-scratch-part-1-planned-features-app-design-app-skeleton-c87f2c21f47a?source=rss-ae1e6291afc3------2)
-- [Create a new Flutter project in three different ways](https://xeladu.medium.com/create-a-new-flutter-project-in-three-different-ways-a5ace80195b9?source=rss-ae1e6291afc3------2)
-- [How to install packages in your Flutter app](https://xeladu.medium.com/how-to-install-packages-in-your-flutter-app-e7f7e62711ee?source=rss-ae1e6291afc3------2)
-- [How to install, update, and delete your Windows apps with winget](https://xeladu.medium.com/app-management-with-winget-on-windows-e668086a03f7?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
