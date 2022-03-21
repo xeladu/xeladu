@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick prototyping with Flutter and a REST API](https://levelup.gitconnected.com/quick-prototyping-with-flutter-and-a-rest-api-2c4e7d9ea66a?source=rss-ae1e6291afc3------2)
 - [When Looking At These Numbers, We Are Totally Screwed](https://medium.com/the-shortform/when-looking-at-these-numbers-we-are-totally-screwed-bfd448da8741?source=rss-ae1e6291afc3------2)
 - [How to make HTTP requests with Flutter and parse JSON result data](https://levelup.gitconnected.com/how-to-make-http-requests-with-flutter-and-parse-json-result-data-ae1f5794f53?source=rss-ae1e6291afc3------2)
 - [I was bored … so I made an app for that!](https://medium.com/the-shortform/i-was-bored-so-i-made-an-app-for-that-dabd6f67d313?source=rss-ae1e6291afc3------2)
 - [How bad hardware can ruin a software developer’s workday](https://levelup.gitconnected.com/how-bad-hardware-can-ruin-a-software-developers-workday-34c3b6ebe33f?source=rss-ae1e6291afc3------2)
-- [How to fix a broken branch after a git merge or git rebase](https://levelup.gitconnected.com/how-to-fix-a-broken-branch-after-a-git-merge-or-git-rebase-4ca61c0cb6fd?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
