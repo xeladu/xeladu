@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter app from scratch part 4— implementing logic and styling the user interface](https://levelup.gitconnected.com/flutter-app-from-scratch-part-4-implementing-logic-and-styling-the-user-interface-c08d2304b399?source=rss-ae1e6291afc3------2)
 - [How to use the Flutter command-line interface](https://medium.com/codex/how-to-use-the-flutter-command-line-interface-8c43f3bb8425?source=rss-ae1e6291afc3------2)
 - [Record temperature at the coldest place on earth](https://medium.com/the-shortform/record-temperature-at-the-coldest-place-on-earth-281839502ec?source=rss-ae1e6291afc3------2)
 - [My Top 5 Flutter Extensions for VS Code](https://medium.com/codex/my-top-5-flutter-extensions-for-vs-code-f36936518ff8?source=rss-ae1e6291afc3------2)
 - [What I Earned After Writing 25 Coding Tutorials On Medium](https://medium.com/new-writers-welcome/what-i-earned-after-writing-25-coding-tutorials-on-medium-1484876d290e?source=rss-ae1e6291afc3------2)
-- [Headline Or Image, What Catches Your Interest Most?](https://medium.com/the-shortform/headline-or-image-what-catches-your-interest-most-f76c8fab0fbe?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
