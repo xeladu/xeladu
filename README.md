@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I cracked the 100 dollars barrier with an article about bad code](https://medium.com/the-shortform/i-cracked-the-100-dollars-barrier-with-an-article-about-bad-code-19d8a843c7eb?source=rss-ae1e6291afc3------2)
 - [How to navigate between pages in your Flutter application](https://levelup.gitconnected.com/how-to-navigate-between-pages-in-your-flutter-application-ed54558dbae4?source=rss-ae1e6291afc3------2)
 - [Flutter app from scratch part 5 — make UI great again!](https://levelup.gitconnected.com/flutter-app-from-scratch-part-5-make-ui-great-again-a489b969d86c?source=rss-ae1e6291afc3------2)
 - [How to customize your command prompt and icons in your terminal](https://levelup.gitconnected.com/how-to-customize-your-command-prompt-and-icons-in-your-terminal-f88ea15a5d58?source=rss-ae1e6291afc3------2)
 - [Code examples that will make you lose faith in humanity](https://levelup.gitconnected.com/code-examples-that-will-make-you-lose-faith-in-humanity-a2a36ea9d331?source=rss-ae1e6291afc3------2)
-- [I Am A Top Writer And I Didn’t Even Notice](https://medium.com/the-shortform/i-am-a-top-writer-and-i-didnt-even-notice-4c9a80d84a79?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
