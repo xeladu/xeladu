@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add a Google Map to your Flutter app](https://levelup.gitconnected.com/how-to-add-a-google-map-to-your-flutter-app-e75a1a99a0c2?source=rss-ae1e6291afc3------2)
 - [Dear writers, you need to add a donation possibility to your Medium profile!](https://medium.com/midform/dear-writers-you-need-to-add-a-donation-possibility-to-your-medium-profile-3eecff6d9d67?source=rss-ae1e6291afc3------2)
 - [How to use location services in your Flutter application](https://levelup.gitconnected.com/how-to-use-location-services-in-your-flutter-application-582189b2cae7?source=rss-ae1e6291afc3------2)
 - [How to configure Visual Studio to enable git rebase](https://medium.com/codex/how-to-configure-visual-studio-to-enable-git-rebase-95913944468d?source=rss-ae1e6291afc3------2)
 - [I cracked the 100 dollars barrier with an article about bad code](https://medium.com/the-shortform/i-cracked-the-100-dollars-barrier-with-an-article-about-bad-code-19d8a843c7eb?source=rss-ae1e6291afc3------2)
-- [How to navigate between pages in your Flutter application](https://levelup.gitconnected.com/how-to-navigate-between-pages-in-your-flutter-application-ed54558dbae4?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
