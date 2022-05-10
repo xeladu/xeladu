@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [9 simple ideas for your next coding project](https://levelup.gitconnected.com/9-simple-ideas-for-your-next-coding-project-9fb081e6dff9?source=rss-ae1e6291afc3------2)
 - [Flutter at Google IO 2022 — All relevant session details](https://xeladu.medium.com/flutter-at-google-io-2022-all-relevant-session-details-5ecd8e5685eb?source=rss-ae1e6291afc3------2)
 - [6 easy tips when working with setState in a Flutter application](https://levelup.gitconnected.com/6-easy-tips-when-working-with-setstate-in-a-flutter-application-3d629bc77a16?source=rss-ae1e6291afc3------2)
 - [How to secure your cloud data with Cryptomator](https://levelup.gitconnected.com/how-to-secure-your-cloud-data-with-cryptomator-35ff2c9709e2?source=rss-ae1e6291afc3------2)
 - [How to add a Google Map to your Flutter app](https://levelup.gitconnected.com/how-to-add-a-google-map-to-your-flutter-app-e75a1a99a0c2?source=rss-ae1e6291afc3------2)
-- [Dear writers, you need to add a donation possibility to your Medium profile!](https://medium.com/midform/dear-writers-you-need-to-add-a-donation-possibility-to-your-medium-profile-3eecff6d9d67?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
