@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.NET MAUI released as stable … but it absolutely isn’t](https://xeladu.medium.com/net-maui-released-as-stable-but-it-absolutely-isnt-735df7e14113?source=rss-ae1e6291afc3------2)
 - [How to use Firebase Authentication with your Flutter app](https://levelup.gitconnected.com/how-to-use-firebase-authentication-with-your-flutter-app-4603c1b78156?source=rss-ae1e6291afc3------2)
 - [How to create a Firebase project and link it with your Flutter app](https://levelup.gitconnected.com/how-to-create-a-firebase-project-and-link-it-with-your-flutter-app-acd826be8356?source=rss-ae1e6291afc3------2)
 - [7 free chrome extensions to give you maximum stats insights for Medium](https://medium.com/new-writers-welcome/7-free-chrome-extensions-to-give-you-maximum-stats-insights-for-medium-e394237f3106?source=rss-ae1e6291afc3------2)
 - [9 simple ideas for your next coding project](https://levelup.gitconnected.com/9-simple-ideas-for-your-next-coding-project-9fb081e6dff9?source=rss-ae1e6291afc3------2)
-- [Flutter at Google IO 2022 — All relevant session details](https://xeladu.medium.com/flutter-at-google-io-2022-all-relevant-session-details-5ecd8e5685eb?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
