@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Flutter pubspec.yaml in detail](https://xeladu.medium.com/the-flutter-pubspec-yaml-in-detail-eee5729d9df7?source=rss-ae1e6291afc3------2)
 - [How to use the Flutter doctor diagnostics tool in the right way](https://xeladu.medium.com/how-to-use-the-flutter-doctor-diagnostics-tool-in-the-right-way-51fbe05c2b92?source=rss-ae1e6291afc3------2)
 - [Income report for May 2022](https://medium.com/earnings-reveal/income-report-for-may-2022-38c6731ae2d5?source=rss-ae1e6291afc3------2)
 - [How to use Firebase Cloud Firestore with a Flutter app](https://levelup.gitconnected.com/how-to-use-firebase-cloud-firestore-with-a-flutter-app-2110da689e08?source=rss-ae1e6291afc3------2)
 - [.NET MAUI released as stable … but it absolutely isn’t](https://xeladu.medium.com/net-maui-released-as-stable-but-it-absolutely-isnt-735df7e14113?source=rss-ae1e6291afc3------2)
-- [How to use Firebase Authentication with your Flutter app](https://levelup.gitconnected.com/how-to-use-firebase-authentication-with-your-flutter-app-4603c1b78156?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
