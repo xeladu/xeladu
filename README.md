@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Firebase integration with Flutter apps improved over time](https://xeladu.medium.com/how-firebase-integration-with-flutter-apps-improved-over-time-9b5f701a64c6?source=rss-ae1e6291afc3------2)
 - [Top 5 developer conferences to boost your coding skills](https://levelup.gitconnected.com/top-5-developer-conferences-to-boost-your-coding-skills-66d66df74169?source=rss-ae1e6291afc3------2)
 - [All you need to know about the default Flutter project folders and files](https://xeladu.medium.com/all-you-need-to-know-about-the-default-flutter-project-folders-and-files-47dbf194b857?source=rss-ae1e6291afc3------2)
 - [The Flutter pubspec.yaml in detail](https://xeladu.medium.com/the-flutter-pubspec-yaml-in-detail-eee5729d9df7?source=rss-ae1e6291afc3------2)
 - [How to use the Flutter doctor diagnostics tool in the right way](https://xeladu.medium.com/how-to-use-the-flutter-doctor-diagnostics-tool-in-the-right-way-51fbe05c2b92?source=rss-ae1e6291afc3------2)
-- [Income report for May 2022](https://medium.com/earnings-reveal/income-report-for-may-2022-38c6731ae2d5?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
