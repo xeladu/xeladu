@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming online conference dedicated to .NET MAUI on August 9, 2022!](https://xeladu.medium.com/upcoming-online-conference-dedicated-to-net-maui-on-august-9-2022-3f8440a069fb?source=rss-ae1e6291afc3------2)
 - [How to work with Firebase Cloud Functions from a Flutter app](https://levelup.gitconnected.com/how-to-work-with-firebase-cloud-functions-from-a-flutter-app-fb818c01b0db?source=rss-ae1e6291afc3------2)
 - [How Firebase integration with Flutter apps improved over time](https://xeladu.medium.com/how-firebase-integration-with-flutter-apps-improved-over-time-9b5f701a64c6?source=rss-ae1e6291afc3------2)
 - [Top 5 developer conferences to boost your coding skills](https://levelup.gitconnected.com/top-5-developer-conferences-to-boost-your-coding-skills-66d66df74169?source=rss-ae1e6291afc3------2)
 - [All you need to know about the default Flutter project folders and files](https://xeladu.medium.com/all-you-need-to-know-about-the-default-flutter-project-folders-and-files-47dbf194b857?source=rss-ae1e6291afc3------2)
-- [The Flutter pubspec.yaml in detail](https://xeladu.medium.com/the-flutter-pubspec-yaml-in-detail-eee5729d9df7?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
