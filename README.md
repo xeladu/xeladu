@@ -11,11 +11,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I reached a new milestone, but it took a lot of effort](https://xeladu.medium.com/i-reached-a-new-milestone-but-it-took-a-lot-of-effort-d2f06fed6d9e?source=rss-ae1e6291afc3------2)
 - [How to easily store objects in Firebase Storage from your Flutter app](https://levelup.gitconnected.com/how-to-easily-store-objects-in-firebase-storage-from-your-flutter-app-deabc475d407?source=rss-ae1e6291afc3------2)
 - [Upcoming online conference dedicated to .NET MAUI on August 9, 2022!](https://xeladu.medium.com/upcoming-online-conference-dedicated-to-net-maui-on-august-9-2022-3f8440a069fb?source=rss-ae1e6291afc3------2)
 - [How to work with Firebase Cloud Functions from a Flutter app](https://levelup.gitconnected.com/how-to-work-with-firebase-cloud-functions-from-a-flutter-app-fb818c01b0db?source=rss-ae1e6291afc3------2)
 - [How Firebase integration with Flutter apps improved over time](https://xeladu.medium.com/how-firebase-integration-with-flutter-apps-improved-over-time-9b5f701a64c6?source=rss-ae1e6291afc3------2)
-- [Top 5 developer conferences to boost your coding skills](https://levelup.gitconnected.com/top-5-developer-conferences-to-boost-your-coding-skills-66d66df74169?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
