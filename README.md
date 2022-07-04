@@ -12,7 +12,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [My free ebook for all upcoming Flutter developers!](https://xeladu.medium.com/my-free-ebook-for-all-upcoming-flutter-developers-ad13f7775d3?source=rss-ae1e6291afc3------2)
+- [Have a look at my free ebook for all upcoming Flutter developers!](https://xeladu.medium.com/my-free-ebook-for-all-upcoming-flutter-developers-ad13f7775d3?source=rss-ae1e6291afc3------2)
 - [I reached a new milestone, but it took a lot of effort](https://xeladu.medium.com/i-reached-a-new-milestone-but-it-took-a-lot-of-effort-d2f06fed6d9e?source=rss-ae1e6291afc3------2)
 - [How to easily store objects in Firebase Storage from your Flutter app](https://levelup.gitconnected.com/how-to-easily-store-objects-in-firebase-storage-from-your-flutter-app-deabc475d407?source=rss-ae1e6291afc3------2)
 - [Upcoming online conference dedicated to .NET MAUI on August 9, 2022!](https://xeladu.medium.com/upcoming-online-conference-dedicated-to-net-maui-on-august-9-2022-3f8440a069fb?source=rss-ae1e6291afc3------2)
