@@ -12,11 +12,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What features I’d like to have added to Medium](https://medium.com/illumination/what-features-id-like-to-have-added-to-medium-45bad7f9ab19?source=rss-ae1e6291afc3------2)
 - [Pay what you want for free content is actually working](https://xeladu.medium.com/pay-what-you-want-for-free-content-is-actually-working-ffc9ce2ba497?source=rss-ae1e6291afc3------2)
 - [Release an ebook and gain experience without risk](https://medium.com/the-shortform/release-an-ebook-and-gain-experience-without-risk-242f2c4b49d3?source=rss-ae1e6291afc3------2)
 - [Income report for June 2022](https://medium.com/earnings-reveal/income-report-for-june-2022-39b7d42f6b9a?source=rss-ae1e6291afc3------2)
 - [Have a look at my free ebook for all upcoming Flutter developers!](https://xeladu.medium.com/my-free-ebook-for-all-upcoming-flutter-developers-ad13f7775d3?source=rss-ae1e6291afc3------2)
-- [I reached a new milestone, but it took a lot of effort](https://xeladu.medium.com/i-reached-a-new-milestone-but-it-took-a-lot-of-effort-d2f06fed6d9e?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
