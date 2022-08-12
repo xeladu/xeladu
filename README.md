@@ -12,11 +12,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Free and Essential Tools to Write Better Tech and Coding Articles](https://medium.com/build-your-wealth/7-free-and-essential-tools-to-write-better-tech-and-coding-articles-8e0db284ed20?source=rss-ae1e6291afc3------2)
 - [How to secure your Firebase backend access with App Check for Flutter apps](https://levelup.gitconnected.com/how-to-secure-your-firebase-backend-access-with-app-check-for-flutter-apps-b54cbe777fb2?source=rss-ae1e6291afc3------2)
 - [Income report for July 2022 — It’s vacation time!](https://medium.com/build-your-wealth/income-report-for-july-2022-its-vacation-time-b5f68dc827f2?source=rss-ae1e6291afc3------2)
 - [Will Windows ever be finished?](https://medium.com/codex/will-windows-ever-be-finished-426e109c5034?source=rss-ae1e6291afc3------2)
 - [A comparison of 6 JsonToDart tools for Flutter/Dart developers](https://levelup.gitconnected.com/a-comparison-of-6-jsontodart-tools-for-flutter-dart-developers-74cf687ea8e2?source=rss-ae1e6291afc3------2)
-- [How to spread false information on Wikipedia without anyone noticing](https://medium.com/geekculture/how-to-spread-false-information-on-wikipedia-without-anyone-noticing-1e039846160c?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
