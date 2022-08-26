@@ -9,6 +9,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - ❤  Enthusiastic and passionate about coding
 - 📝 I regularly write articles on [https://xeladu.medium.com](https://xeladu.medium.com)
 - 🏬 My digital products, ebooks and freebies can be found on [Gumroad](https://xeladu.gumroad.com)
+- 📙 Here is an [overview of my published articles and digital products](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
