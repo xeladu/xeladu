@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stepped too far? Just move the debug cursor to where you need it!](https://xeladu.medium.com/stepped-too-far-just-move-the-debug-cursor-to-where-you-need-it-19214cedbed7?source=rss-ae1e6291afc3------2)
 - [Quickly Minimize All Windows to Access Your Desktop With This Shortcut](https://xeladu.medium.com/quickly-minimize-all-windows-to-access-your-desktop-with-this-shortcut-962dc0b039ff?source=rss-ae1e6291afc3------2)
 - [Move App Window to Another Screen With This Shortcut](https://xeladu.medium.com/move-app-window-to-another-screen-with-this-shortcut-64f47d435bf6?source=rss-ae1e6291afc3------2)
 - [I achieved a reach of 75,000 with 75 articles in about 7 months](https://xeladu.medium.com/i-achieved-a-reach-of-75-000-with-75-articles-in-about-7-months-4a853633548f?source=rss-ae1e6291afc3------2)
 - [7 Free and Essential Tools to Write Better Tech and Coding Articles](https://medium.com/build-your-wealth/7-free-and-essential-tools-to-write-better-tech-and-coding-articles-8e0db284ed20?source=rss-ae1e6291afc3------2)
-- [How to secure your Firebase backend access with App Check for Flutter apps](https://levelup.gitconnected.com/how-to-secure-your-firebase-backend-access-with-app-check-for-flutter-apps-b54cbe777fb2?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
