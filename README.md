@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Income report for August 2022 — Content, content, content!](https://medium.com/build-your-wealth/income-report-for-august-2022-content-content-content-92a7966296a6?source=rss-ae1e6291afc3------2)
 - [Execute Custom Code While Debugging With The Immediate Window](https://xeladu.medium.com/execute-custom-code-while-debugging-with-the-immediate-window-f39e22a12c7?source=rss-ae1e6291afc3------2)
 - [Stepped too far? Just move the debug cursor to where you need it!](https://xeladu.medium.com/stepped-too-far-just-move-the-debug-cursor-to-where-you-need-it-19214cedbed7?source=rss-ae1e6291afc3------2)
 - [Quickly Minimize All Windows to Access Your Desktop With This Shortcut](https://xeladu.medium.com/quickly-minimize-all-windows-to-access-your-desktop-with-this-shortcut-962dc0b039ff?source=rss-ae1e6291afc3------2)
 - [Move App Window to Another Screen With This Shortcut](https://xeladu.medium.com/move-app-window-to-another-screen-with-this-shortcut-64f47d435bf6?source=rss-ae1e6291afc3------2)
-- [I achieved a reach of 75,000 with 75 articles in about 7 months](https://xeladu.medium.com/i-achieved-a-reach-of-75-000-with-75-articles-in-about-7-months-4a853633548f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
