@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Quickly insert emojis while writing on a Windows system](https://xeladu.medium.com/quickly-insert-emojis-while-writing-on-a-windows-system-50462289d181?source=rss-ae1e6291afc3------2)
 - [New free ebook about testing Flutter applications published](https://xeladu.medium.com/new-free-ebook-about-testing-flutter-applications-published-c4a77e25f3cb?source=rss-ae1e6291afc3------2)
 - [Multiple copy and paste actions with Windows clipboard history](https://xeladu.medium.com/multiple-copy-and-paste-actions-with-windows-clipboard-history-73c385b3099c?source=rss-ae1e6291afc3------2)
 - [How to do Widget testing in a Flutter application](https://levelup.gitconnected.com/how-to-do-widget-testing-in-a-flutter-application-da2105909912?source=rss-ae1e6291afc3------2)
 - [How to organize your Flutter app assets, styles, colors, images](https://levelup.gitconnected.com/how-to-organize-your-flutter-app-assets-styles-colors-images-f27e1aa2cacc?source=rss-ae1e6291afc3------2)
-- [Improve your debugging experience in Visual Studio with conditional breakpoints](https://xeladu.medium.com/improve-your-debugging-with-conditional-breakpoints-4cb5c5379312?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
