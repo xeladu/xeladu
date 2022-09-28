@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Total reach of over 100,000 in 10 months achieved!](https://medium.com/build-your-wealth/total-reach-of-over-100-000-in-10-months-achieved-79f330403969?source=rss-ae1e6291afc3------2)
 - [How to use server-side configurations with Firebase Remote Config](https://levelup.gitconnected.com/how-to-use-server-side-configurations-with-firebase-remote-config-3996b5606079?source=rss-ae1e6291afc3------2)
 - [Summary of comebacks of the Big Four when being 2 sets down](https://xeladu.medium.com/summary-of-comebacks-of-the-big-four-when-being-2-sets-down-f2a68024b10d?source=rss-ae1e6291afc3------2)
 - [Show annotations, hints, code preview, and more in Visual Studio scroll bars](https://xeladu.medium.com/show-annotations-hints-code-preview-and-more-in-visual-studio-scroll-bars-80d045a7b4b8?source=rss-ae1e6291afc3------2)
 - [Quickly insert emojis while writing on a Windows system](https://xeladu.medium.com/quickly-insert-emojis-while-writing-on-a-windows-system-50462289d181?source=rss-ae1e6291afc3------2)
-- [New free ebook about testing Flutter applications published](https://xeladu.medium.com/new-free-ebook-about-testing-flutter-applications-published-c4a77e25f3cb?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
