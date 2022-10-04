@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Collection of Performance Tips for Flutter applications](https://xeladu.medium.com/collection-of-performance-tips-for-flutter-applications-6208d8fc703f?source=rss-ae1e6291afc3------2)
 - [Remove unnecessary toolbar and action items in Visual Studio](https://xeladu.medium.com/remove-unnecessary-toolbar-and-action-items-in-visual-studio-ac0188381b71?source=rss-ae1e6291afc3------2)
 - [Income report for September 2022 — Steady progress](https://medium.com/build-your-wealth/income-report-for-september-2022-steady-progress-94c020ee5539?source=rss-ae1e6291afc3------2)
 - [Total reach of over 100,000 in 10 months achieved!](https://medium.com/build-your-wealth/total-reach-of-over-100-000-in-10-months-achieved-79f330403969?source=rss-ae1e6291afc3------2)
 - [How to use server-side configurations with Firebase Remote Config](https://levelup.gitconnected.com/how-to-use-server-side-configurations-with-firebase-remote-config-3996b5606079?source=rss-ae1e6291afc3------2)
-- [Summary of comebacks of the Big Four when being 2 sets down](https://xeladu.medium.com/summary-of-comebacks-of-the-big-four-when-being-2-sets-down-f2a68024b10d?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
