@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cluttered context menus? Here is how to customize them in Visual Studio!](https://xeladu.medium.com/cluttered-context-menus-here-is-how-to-customize-them-in-visual-studio-f7b7a4561968?source=rss-ae1e6291afc3------2)
 - [Organize your Visual Studio tool windows the way you need them](https://xeladu.medium.com/organize-your-visual-studio-tool-windows-the-way-you-need-them-9c2ff263ab81?source=rss-ae1e6291afc3------2)
 - [How to host your Flutter web app with Firebase Hosting](https://levelup.gitconnected.com/how-to-host-your-flutter-web-app-with-firebase-hosting-67d3e4657002?source=rss-ae1e6291afc3------2)
 - [Collection of Performance Tips for Flutter applications](https://xeladu.medium.com/collection-of-performance-tips-for-flutter-applications-6208d8fc703f?source=rss-ae1e6291afc3------2)
 - [Remove unnecessary toolbar and action items in Visual Studio](https://xeladu.medium.com/remove-unnecessary-toolbar-and-action-items-in-visual-studio-ac0188381b71?source=rss-ae1e6291afc3------2)
-- [Income report for September 2022 — Steady progress](https://medium.com/build-your-wealth/income-report-for-september-2022-steady-progress-94c020ee5539?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
