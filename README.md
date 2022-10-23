@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My 3 favorite extensions for Visual Studio I cannot live without](https://xeladu.medium.com/my-3-favorite-extensions-for-visual-studio-i-cannot-live-without-5974d9ff3960?source=rss-ae1e6291afc3------2)
 - [Are you serious about developing with Firebase? Check out my new ebook!](https://xeladu.medium.com/are-you-serious-about-developing-with-firebase-check-out-my-new-ebook-be13ed9d65ab?source=rss-ae1e6291afc3------2)
 - [Cluttered context menus? Here is how to customize them in Visual Studio!](https://xeladu.medium.com/cluttered-context-menus-here-is-how-to-customize-them-in-visual-studio-f7b7a4561968?source=rss-ae1e6291afc3------2)
 - [Organize your Visual Studio tool windows the way you need them](https://xeladu.medium.com/organize-your-visual-studio-tool-windows-the-way-you-need-them-9c2ff263ab81?source=rss-ae1e6291afc3------2)
 - [How to host your Flutter web app with Firebase Hosting](https://levelup.gitconnected.com/how-to-host-your-flutter-web-app-with-firebase-hosting-67d3e4657002?source=rss-ae1e6291afc3------2)
-- [Collection of Performance Tips for Flutter applications](https://xeladu.medium.com/collection-of-performance-tips-for-flutter-applications-6208d8fc703f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
