@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Medium RSS feed in detail and what you can do with it](https://levelup.gitconnected.com/the-medium-rss-feed-in-detail-and-what-you-can-do-with-it-9759f7a23cd2?source=rss-ae1e6291afc3------2)
 - [Watch .NET Conf 2022 to get the latest news from the .NET universe!](https://xeladu.medium.com/watch-net-conf-2022-to-get-the-latest-news-from-the-net-universe-3717f568e105?source=rss-ae1e6291afc3------2)
 - [Income report for October 2022](https://medium.com/build-your-wealth/income-report-for-october-2022-b2f388448b61?source=rss-ae1e6291afc3------2)
 - [You Think You Know How Medium Earnings Calculation Works? Then Explain This!](https://medium.com/new-writers-welcome/you-think-you-know-how-medium-earnings-calculation-works-then-explain-this-8c8685f197a4?source=rss-ae1e6291afc3------2)
 - [You can subscribe to my monthly Medium newsletter now!](https://xeladu.medium.com/you-can-subscribe-to-my-monthly-medium-newsletter-now-2fe671c11b02?source=rss-ae1e6291afc3------2)
-- [My 3 favorite extensions for Visual Studio I cannot live without](https://xeladu.medium.com/my-3-favorite-extensions-for-visual-studio-i-cannot-live-without-5974d9ff3960?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
