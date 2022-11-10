@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boost your Flutter apps to the max with these 6 performance tips](https://levelup.gitconnected.com/boost-your-flutter-apps-to-the-max-with-these-6-performance-tips-db8ebeb733ba?source=rss-ae1e6291afc3------2)
 - [Create a One-Click Shutdown Shortcut for your Windows System](https://xeladu.medium.com/create-a-one-click-shutdown-shortcut-for-your-windows-system-5c8abf4e9e99?source=rss-ae1e6291afc3------2)
 - [The Medium RSS feed in detail and what you can do with it](https://levelup.gitconnected.com/the-medium-rss-feed-in-detail-and-what-you-can-do-with-it-9759f7a23cd2?source=rss-ae1e6291afc3------2)
 - [Watch .NET Conf 2022 to get the latest news from the .NET universe!](https://xeladu.medium.com/watch-net-conf-2022-to-get-the-latest-news-from-the-net-universe-3717f568e105?source=rss-ae1e6291afc3------2)
 - [Income report for October 2022](https://medium.com/build-your-wealth/income-report-for-october-2022-b2f388448b61?source=rss-ae1e6291afc3------2)
-- [You Think You Know How Medium Earnings Calculation Works? Then Explain This!](https://medium.com/new-writers-welcome/you-think-you-know-how-medium-earnings-calculation-works-then-explain-this-8c8685f197a4?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
