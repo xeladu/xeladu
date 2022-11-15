@@ -38,9 +38,10 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### How you can support me
 
-If you like my articles, there are several ways how you can support me<br /><br />
-▶ ☕ [Buy me a coffee](https://medium.com/r/?url=https%3A%2F%2Fwww.buymeacoffee.com%2Fxeladu)<br />
-▶ 😊 [Donate via Paypal](https://medium.com/r/?url=https%3A%2F%2Fwww.paypal.com%2Fdonate%2F%3Fhosted_button_id%3DJPWK39GGPAAFQ)<br />
-▶ 💖 [Become a Medium member](https://xeladu.medium.com/membership) and get access to all my articles<br />
-▶ 🏬 [Check out my Gumroad store](https://xeladu.gumroad.com) for freebies and digital products<br />
-▶ ⭐ Star my GitHub profile with all code examples from my articles<br />
+If you like my work in general, feel free to support me in any way ❤
+
+- You can [become a Medium member via my referral link](https://xeladu.medium.com/membership) for just $5 a month! 💖
+- You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
+- You can [browse my Gumroad store](https://xeladu.gumroad.com) for ebooks and freebies 📙
+- You can [join my free monthly Medium Newsletter](https://bit.ly/xeladu-medium) 💌
+- You can [find all my published stuff here](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c) 📑
