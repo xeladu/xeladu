@@ -40,6 +40,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 If you like my work in general, feel free to support me in any way ❤
 
+- You can [become a GitHub sponsor](https://github.com/sponsors/xeladu) 🤩
 - You can [become a Medium member via my referral link](https://xeladu.medium.com/membership) for just $5 a month! 💖
 - You can [buy me a coffee](https://www.buymeacoffee.com/xeladu) ☕
 - You can [browse my Gumroad store](https://xeladu.gumroad.com) for ebooks and freebies 📙
