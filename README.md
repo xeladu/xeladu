@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a pipeline from an existing YAML file in Azure DevOps](https://xeladu.medium.com/how-to-create-a-pipeline-from-an-existing-yaml-file-in-azure-devops-4c41e74fde2b?source=rss-ae1e6291afc3------2)
 - [Azure Build Pipeline for Flutter apps targeting iOS, Android, and Windows](https://xeladu.medium.com/azure-build-pipeline-for-flutter-apps-targeting-ios-android-and-windows-58e36a8dda9?source=rss-ae1e6291afc3------2)
 - [How to work with dialogs, toasts, and overlays in Flutter apps](https://levelup.gitconnected.com/how-to-work-with-dialogs-toasts-and-overlays-in-flutter-apps-b53c5ce37aa6?source=rss-ae1e6291afc3------2)
 - [I tried the new C# 11 features — Here are my useful takeaways](https://levelup.gitconnected.com/i-tried-the-new-c-11-features-here-are-my-useful-takeaways-78c19abeaf72?source=rss-ae1e6291afc3------2)
 - [How to enable a pull request workflow in Azure DevOps](https://levelup.gitconnected.com/how-to-enable-a-pull-request-workflow-in-azure-devops-fbd742ca2e97?source=rss-ae1e6291afc3------2)
-- [Can’t use your pipeline in Azure DevOps with .NET7? Here is a solution!](https://xeladu.medium.com/cant-use-your-pipeline-in-azure-devops-with-net7-here-is-a-solution-35f3e298ae3d?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
