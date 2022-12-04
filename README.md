@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add New Firebase Features with Firebase Extensions](https://levelup.gitconnected.com/how-to-add-new-firebase-features-with-firebase-extensions-d9bbf8b2279f?source=rss-ae1e6291afc3------2)
 - [Income report for November 2022](https://medium.com/build-your-wealth/income-report-for-november-2022-c5b238d864e7?source=rss-ae1e6291afc3------2)
 - [How to replace app config settings with the Replace Tokens extension in Azure DevOps](https://xeladu.medium.com/how-to-replace-app-config-settings-with-the-replace-tokens-extension-in-azure-devops-a94874554f03?source=rss-ae1e6291afc3------2)
 - [How to create a pipeline from an existing YAML file in Azure DevOps](https://xeladu.medium.com/how-to-create-a-pipeline-from-an-existing-yaml-file-in-azure-devops-4c41e74fde2b?source=rss-ae1e6291afc3------2)
 - [Azure Build Pipeline for Flutter apps targeting iOS, Android, and Windows](https://xeladu.medium.com/azure-build-pipeline-for-flutter-apps-targeting-ios-android-and-windows-58e36a8dda9?source=rss-ae1e6291afc3------2)
-- [How to work with dialogs, toasts, and overlays in Flutter apps](https://levelup.gitconnected.com/how-to-work-with-dialogs-toasts-and-overlays-in-flutter-apps-b53c5ce37aa6?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
