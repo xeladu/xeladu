@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dart Null Safety is Trash Right Now!](https://levelup.gitconnected.com/dart-null-safety-is-trash-right-now-fbd5942838a4?source=rss-ae1e6291afc3------2)
 - [Buying a small phone in 2022 - how hard can it be?!](https://medium.com/geekculture/buying-a-small-phone-in-2022-how-hard-can-it-be-5bc83bb283e9?source=rss-ae1e6291afc3------2)
 - [Are you working with a lot of files at the same time? Then you’ll like this tip!](https://xeladu.medium.com/are-you-working-with-a-lot-of-files-at-the-same-time-then-youll-like-this-tip-7d8b57e6d814?source=rss-ae1e6291afc3------2)
 - [Here is how your Visual Studio solutions load faster!](https://xeladu.medium.com/here-is-how-your-visual-studio-solutions-load-faster-c31dfea8f0c4?source=rss-ae1e6291afc3------2)
 - [Here is a free ebook about push notifications with Flutter and Firebase for you!](https://xeladu.medium.com/here-is-a-free-ebook-about-push-notifications-with-flutter-and-firebase-for-you-bdc660341842?source=rss-ae1e6291afc3------2)
-- [How to Add New Firebase Features with Firebase Extensions](https://levelup.gitconnected.com/how-to-add-new-firebase-features-with-firebase-extensions-d9bbf8b2279f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
