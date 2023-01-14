@@ -13,11 +13,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get a status badge of a pipeline in Azure Devops](https://xeladu.medium.com/how-to-get-a-status-badge-of-a-pipeline-in-azure-devops-90501f2b4583?source=rss-ae1e6291afc3------2)
 - [This is one of the Best Tool Collections for Windows!](https://levelup.gitconnected.com/this-is-one-of-the-best-tool-collections-for-windows-76c2913338ac?source=rss-ae1e6291afc3------2)
 - [One Year on Medium — Here Is Everything You Want To Know](https://medium.com/new-writers-welcome/one-year-on-medium-here-is-everything-you-want-to-know-933f24ef36cd?source=rss-ae1e6291afc3------2)
 - [Building a simple text translation app with Flutter and Firebase](https://levelup.gitconnected.com/building-a-simple-text-translation-app-with-flutter-and-firebase-7a78a5dc0ae8?source=rss-ae1e6291afc3------2)
 - [Dart Null Safety is Trash Right Now!](https://levelup.gitconnected.com/dart-null-safety-is-trash-right-now-fbd5942838a4?source=rss-ae1e6291afc3------2)
-- [Buying a small phone in 2022 - how hard can it be?!](https://medium.com/geekculture/buying-a-small-phone-in-2022-how-hard-can-it-be-5bc83bb283e9?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
