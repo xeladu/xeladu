@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to change your billing plan of Google Firebase](https://xeladu.medium.com/how-to-change-your-billing-plan-of-google-firebase-13e7b0671d22?source=rss-ae1e6291afc3------2)
 - [I finally created my own blog website in 2023!](https://xeladu.medium.com/i-finally-created-my-own-blog-website-in-2023-fd93c0bf1b0f?source=rss-ae1e6291afc3------2)
 - [I Created an Automated Medium Newsletter — Here is how you can do it!](https://levelup.gitconnected.com/i-created-an-automated-medium-newsletter-here-is-how-you-can-do-it-f2611f4fb9b1?source=rss-ae1e6291afc3------2)
 - [Here is a Collection of Useful Tips for Visual Studio](https://levelup.gitconnected.com/here-is-a-collection-of-useful-tips-for-visual-studio-a74ff496abfb?source=rss-ae1e6291afc3------2)
 - [How to get a status badge of a pipeline in Azure Devops](https://xeladu.medium.com/how-to-get-a-status-badge-of-a-pipeline-in-azure-devops-90501f2b4583?source=rss-ae1e6291afc3------2)
-- [This is one of the Best Tool Collections for Windows!](https://levelup.gitconnected.com/this-is-one-of-the-best-tool-collections-for-windows-76c2913338ac?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
