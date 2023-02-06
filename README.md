@@ -12,7 +12,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - 🏬 My digital products, ebooks and freebies can be found on [Gumroad](https://xeladu.gumroad.com)
 - 📙 Here is an [overview of my published articles and digital products](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c)
 
-### Blogs posts
+### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to change your billing plan of Google Firebase](https://xeladu.medium.com/how-to-change-your-billing-plan-of-google-firebase-13e7b0671d22?source=rss-ae1e6291afc3------2)
 - [I finally created my own blog website in 2023!](https://xeladu.medium.com/i-finally-created-my-own-blog-website-in-2023-fd93c0bf1b0f?source=rss-ae1e6291afc3------2)
@@ -20,6 +20,10 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - [Here is a Collection of Useful Tips for Visual Studio](https://levelup.gitconnected.com/here-is-a-collection-of-useful-tips-for-visual-studio-a74ff496abfb?source=rss-ae1e6291afc3------2)
 - [How to get a status badge of a pipeline in Azure Devops](https://xeladu.medium.com/how-to-get-a-status-badge-of-a-pipeline-in-azure-devops-90501f2b4583?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
+
+### QuickCoder blog posts
+<!-- QC-BLOG-POST-LIST:START -->
+<!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
  <p>
