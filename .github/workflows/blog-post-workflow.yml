@@ -9,10 +9,12 @@ jobs:
         steps: 
             - uses: actions/checkout@v2
             - uses: gautamkrishnar/blog-post-workflow@master
+              name: Update Medium blog posts
               with: 
                 max_post_count: "5"
                 feed_list: "https://medium.com/feed/@xeladu"
             - uses: gautamkrishnar/blog-post-workflow@master
+              name: Update QuickCoder blog posts
               with: 
                 max_post_count: "5"
                 feed_list: "https://quickcoder.org/feed/"
