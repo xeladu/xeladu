@@ -25,9 +25,9 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 <!-- QC-BLOG-POST-LIST:START -->
 - [I Created an Automated Medium Newsletter – Here is how you can do it!](https://quickcoder.org/automated-medium-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=automated-medium-newsletter)
 - [Here is a Collection of Useful Tips for Visual Studio](https://quickcoder.org/vs-2022-tip-collection/?utm_source=rss&utm_medium=rss&utm_campaign=vs-2022-tip-collection)
-- [How to easily store objects in Firebase Storage from your Flutter app](https://quickcoder.org/firebase-storage/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-storage)
-- [How to work with Firebase Cloud Functions from a Flutter app](https://quickcoder.org/firebase-functions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-functions)
-- [All you need to know about the default Flutter project folders and files](https://quickcoder.org/flutter-project-structure/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-project-structure)
+- [Building a simple text translation app with Flutter and Firebase](https://quickcoder.org/firebase-translation/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-translation)
+- [How to add new Firebase Features with Firebase Extensions](https://quickcoder.org/firebase-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-extensions)
+- [I tried the new C# 11 features – Here are my useful takeaways](https://quickcoder.org/csharp11-features/?utm_source=rss&utm_medium=rss&utm_campaign=csharp11-features)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
