@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [I tried Microsoft Designer – is it better than Canva?](https://quickcoder.org/ms-designer/?utm_source=rss&utm_medium=rss&utm_campaign=ms-designer)
 - [I Created an Automated Medium Newsletter – Here is how you can do it!](https://quickcoder.org/automated-medium-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=automated-medium-newsletter)
 - [Here is a Collection of Useful Tips for Visual Studio](https://quickcoder.org/vs-2022-tip-collection/?utm_source=rss&utm_medium=rss&utm_campaign=vs-2022-tip-collection)
 - [Building a simple text translation app with Flutter and Firebase](https://quickcoder.org/firebase-translation/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-translation)
 - [How to add new Firebase Features with Firebase Extensions](https://quickcoder.org/firebase-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-extensions)
-- [I tried the new C# 11 features – Here are my useful takeaways](https://quickcoder.org/csharp11-features/?utm_source=rss&utm_medium=rss&utm_campaign=csharp11-features)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
