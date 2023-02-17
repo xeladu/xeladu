@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to add swipe to dismiss in Flutter apps for a better UX](https://quickcoder.org/flutter-swipe-dismiss/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-swipe-dismiss)
 - [Clean Code, Happy Developer: How to use Linters in Your Flutter App Development Workflow](https://quickcoder.org/flutter-linters/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-linters)
 - [I tried the new AI-powered Microsoft Designer — is it better than Canva?](https://quickcoder.org/ms-designer/?utm_source=rss&utm_medium=rss&utm_campaign=ms-designer)
 - [I Created an Automated Medium Newsletter – Here is how you can do it!](https://quickcoder.org/automated-medium-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=automated-medium-newsletter)
 - [Here is a Collection of Useful Tips for Visual Studio](https://quickcoder.org/vs-2022-tip-collection/?utm_source=rss&utm_medium=rss&utm_campaign=vs-2022-tip-collection)
-- [Building a simple text translation app with Flutter and Firebase](https://quickcoder.org/firebase-translation/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-translation)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
