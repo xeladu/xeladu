@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add swipe to dismiss in Flutter apps for a better UX](https://levelup.gitconnected.com/how-to-add-swipe-to-dismiss-in-flutter-apps-for-a-better-ux-62a7baa83665?source=rss-ae1e6291afc3------2)
 - [Clean Code, Happy Developer: How to use Linters in Your Flutter App Development Workflow](https://levelup.gitconnected.com/clean-code-happy-developer-how-to-use-linters-in-your-flutter-app-development-workflow-4e662e451be5?source=rss-ae1e6291afc3------2)
 - [How to Use ChatGPT to Write Compelling Headlines and Engage Your Readers](https://medium.com/build-your-wealth/how-to-use-chatgpt-to-write-compelling-headlines-and-engage-your-readers-a7b847724b7d?source=rss-ae1e6291afc3------2)
 - [I tried Microsoft Designer — is it better than Canva?](https://levelup.gitconnected.com/i-tried-microsoft-designer-is-it-better-than-canva-a6d0b6b54a58?source=rss-ae1e6291afc3------2)
 - [How to change your billing plan of Google Firebase](https://xeladu.medium.com/how-to-change-your-billing-plan-of-google-firebase-13e7b0671d22?source=rss-ae1e6291afc3------2)
-- [I finally created my own blog website in 2023!](https://xeladu.medium.com/i-finally-created-my-own-blog-website-in-2023-fd93c0bf1b0f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
