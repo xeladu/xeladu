@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Firebase Cloud Functions: An In-Depth Guide](https://xeladu.medium.com/mastering-firebase-cloud-functions-an-in-depth-guide-b9d96f8afb5?source=rss-ae1e6291afc3------2)
 - [A Hundred Times Thank You: My Free Ebook Reaches a Major Milestone](https://xeladu.medium.com/a-hundred-times-thank-you-my-free-ebook-reaches-a-major-milestone-33bbc096239d?source=rss-ae1e6291afc3------2)
 - [Elevate Your Productivity with Greenshot: The Top Windows Screenshot Solution](https://levelup.gitconnected.com/elevate-your-productivity-with-greenshot-the-top-windows-screenshot-solution-755ba17bb913?source=rss-ae1e6291afc3------2)
 - [Here are my Top 5 Naming Patterns for Unit Tests in C#](https://levelup.gitconnected.com/here-are-my-top-5-naming-patterns-for-unit-tests-in-c-b8305075aa9e?source=rss-ae1e6291afc3------2)
 - [Is it still worth publishing how-to guides with the arrival of ChatGPT?](https://xeladu.medium.com/is-it-still-worth-publishing-how-to-guides-with-the-arrival-of-chatgpt-c34bffa85a79?source=rss-ae1e6291afc3------2)
-- [How to add swipe to dismiss in Flutter apps for a better UX](https://levelup.gitconnected.com/how-to-add-swipe-to-dismiss-in-flutter-apps-for-a-better-ux-62a7baa83665?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
