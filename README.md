@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How to Fix Missing Documentation in SwaggerUI of your .NET WebApi Project](https://quickcoder.org/swagger-doc-fix/?utm_source=rss&utm_medium=rss&utm_campaign=swagger-doc-fix)
 - [Here are my Top 5 Naming Patterns for Unit Tests in C#](https://quickcoder.org/test-naming-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=test-naming-patterns)
 - [Elevate Your Productivity with Greenshot: The Top Windows Screenshot Solution](https://quickcoder.org/win-greenshot/?utm_source=rss&utm_medium=rss&utm_campaign=win-greenshot)
 - [How to add swipe to dismiss in Flutter apps for a better UX](https://quickcoder.org/flutter-swipe-dismiss/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-swipe-dismiss)
 - [Clean Code, Happy Developer: How to use Linters in Your Flutter App Development Workflow](https://quickcoder.org/flutter-linters/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-linters)
+- [I tried the new AI-powered Microsoft Designer — is it better than Canva?](https://quickcoder.org/ms-designer/?utm_source=rss&utm_medium=rss&utm_campaign=ms-designer)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
