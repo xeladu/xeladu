@@ -14,7 +14,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Learn Flutter as a beginner from scratch in 2023!](https://xeladu.medium.com/learn-flutter-as-a-beginner-from-scratch-in-2023-3aac52b37e0f?source=rss-ae1e6291afc3------2)
+- [Learn Flutter as a beginner from scratch in 2023!](https://mobileappcircular.com/learn-flutter-as-a-beginner-from-scratch-in-2023-3aac52b37e0f?source=rss-ae1e6291afc3------2)
 - [Is Code Golf just a game or can it actually be useful?](https://levelup.gitconnected.com/is-code-golf-just-a-game-or-can-it-actually-be-useful-ec24182be609?source=rss-ae1e6291afc3------2)
 - [How to Fix Missing Documentation in SwaggerUI of your .NET WebApi Project](https://levelup.gitconnected.com/how-to-fix-missing-documentation-in-swaggerui-of-your-net-webapi-project-8a889b38b5fe?source=rss-ae1e6291afc3------2)
 - [Mastering Firebase Cloud Functions: An In-Depth Guide](https://xeladu.medium.com/mastering-firebase-cloud-functions-an-in-depth-guide-b9d96f8afb5?source=rss-ae1e6291afc3------2)
