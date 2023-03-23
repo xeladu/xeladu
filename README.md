@@ -23,7 +23,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [Create a Personal Goal Tracker in Notion for 2023](https://quickcoder.org/notion-goal-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=notion-goal-tracker)
+- [How you can Create a Personal Goal Tracker in Notion for 2023](https://quickcoder.org/notion-goal-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=notion-goal-tracker)
 - [Integrate ChatGPT in your Daily Workflow Seamlessly with this Browser Extension](https://quickcoder.org/chatgpt-browser-extension/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-browser-extension)
 - [Create Your Own Custom URL Shortener with Firebase in Just a Few Simple Steps](https://quickcoder.org/firebase-url-shortener/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-url-shortener)
 - [How to Fix Missing Documentation in SwaggerUI of your .NET WebApi Project](https://quickcoder.org/swagger-doc-fix/?utm_source=rss&utm_medium=rss&utm_campaign=swagger-doc-fix)
