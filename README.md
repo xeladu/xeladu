@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Are you using the Windows snipping Tool? Stop it immediately!](https://levelup.gitconnected.com/are-you-using-the-windows-snipping-tool-stop-it-immediately-903e6e1c2fab?source=rss-ae1e6291afc3------2)
 - [How you can Create a Personal Goal Tracker in Notion for 2023](https://levelup.gitconnected.com/create-a-personal-goal-tracker-in-notion-for-2023-d040c24455f?source=rss-ae1e6291afc3------2)
 - [Create Your Own Custom URL Shortener with Firebase in Just a Few Simple Steps](https://levelup.gitconnected.com/create-your-own-custom-url-shortener-with-firebase-in-just-a-few-simple-steps-a75f5f5c70a?source=rss-ae1e6291afc3------2)
 - [Integrate ChatGPT in your Daily Workflow Seamlessly with this Browser Extension](https://xeladu.medium.com/integrate-chatgpt-in-your-daily-workflow-seamlessly-with-this-browser-extension-98d226a5f7a6?source=rss-ae1e6291afc3------2)
 - [Learn Flutter as a beginner from scratch in 2023!](https://mobileappcircular.com/learn-flutter-as-a-beginner-from-scratch-in-2023-3aac52b37e0f?source=rss-ae1e6291afc3------2)
-- [Is Code Golf just a game or can it actually be useful?](https://levelup.gitconnected.com/is-code-golf-just-a-game-or-can-it-actually-be-useful-ec24182be609?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
