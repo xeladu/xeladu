@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create a Content Management System for Content Creators in Notion](https://levelup.gitconnected.com/how-to-create-a-content-management-system-for-content-creators-in-notion-dd20f8b15319?source=rss-ae1e6291afc3------2)
 - [Firebase WhatsApp Clone Built With Flutter in No Time!](https://levelup.gitconnected.com/firebase-whatsapp-clone-built-with-flutter-in-no-time-8b37d046f49d?source=rss-ae1e6291afc3------2)
 - [Windows Snipping Tool is safe again — Microsoft fixed a security flaw.](https://levelup.gitconnected.com/windows-snipping-tool-is-safe-again-microsoft-fixed-a-security-flaw-5f7f1ffaa512?source=rss-ae1e6291afc3------2)
 - [Are you using the Windows snipping Tool? Stop it immediately!](https://levelup.gitconnected.com/are-you-using-the-windows-snipping-tool-stop-it-immediately-903e6e1c2fab?source=rss-ae1e6291afc3------2)
 - [How you can Create a Personal Goal Tracker in Notion for 2023](https://levelup.gitconnected.com/create-a-personal-goal-tracker-in-notion-for-2023-d040c24455f?source=rss-ae1e6291afc3------2)
-- [Create Your Own Custom URL Shortener with Firebase in Just a Few Simple Steps](https://levelup.gitconnected.com/create-your-own-custom-url-shortener-with-firebase-in-just-a-few-simple-steps-a75f5f5c70a?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
