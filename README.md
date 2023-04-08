@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to implement Shell navigation, data-binding, and dependency injection in .NET MAUI](https://quickcoder.org/net-maui-jumpstart/?utm_source=rss&utm_medium=rss&utm_campaign=net-maui-jumpstart)
 - [3 Neat Debugging Tips for Visual Studio That You Might Have Never Heard Of](https://quickcoder.org/vs-debugging-tips/?utm_source=rss&utm_medium=rss&utm_campaign=vs-debugging-tips)
 - [Firebase WhatsApp Clone Built With Flutter in No Time!](https://quickcoder.org/flutter-firebase-chat/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-firebase-chat)
 - [How to Create a Content Management System in Notion](https://quickcoder.org/notion-cms/?utm_source=rss&utm_medium=rss&utm_campaign=notion-cms)
 - [How you can Create a Personal Goal Tracker in Notion for 2023](https://quickcoder.org/notion-goal-tracker/?utm_source=rss&utm_medium=rss&utm_campaign=notion-goal-tracker)
-- [Integrate ChatGPT in your Daily Workflow Seamlessly with this Browser Extension](https://quickcoder.org/chatgpt-browser-extension/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-browser-extension)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
