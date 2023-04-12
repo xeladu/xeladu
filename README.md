@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to implement Shell navigation, data-binding, and dependency injection in .NET MAUI](https://levelup.gitconnected.com/how-to-implement-shell-navigation-data-binding-and-dependency-injection-in-net-maui-8f8adc50e759?source=rss-ae1e6291afc3------2)
 - [3 Neat Debugging Tips for Visual Studio That You Might Have Never Heard Of](https://levelup.gitconnected.com/3-neat-debugging-tips-for-visual-studio-that-you-might-have-never-heard-of-fcf4af5ee946?source=rss-ae1e6291afc3------2)
 - [How to Create a Content Management System for Content Creators in Notion](https://levelup.gitconnected.com/how-to-create-a-content-management-system-for-content-creators-in-notion-dd20f8b15319?source=rss-ae1e6291afc3------2)
 - [Firebase WhatsApp Clone Built With Flutter in No Time!](https://levelup.gitconnected.com/firebase-whatsapp-clone-built-with-flutter-in-no-time-8b37d046f49d?source=rss-ae1e6291afc3------2)
 - [Windows Snipping Tool is safe again — Microsoft fixed a security flaw.](https://levelup.gitconnected.com/windows-snipping-tool-is-safe-again-microsoft-fixed-a-security-flaw-5f7f1ffaa512?source=rss-ae1e6291afc3------2)
-- [Are you using the Windows snipping Tool? Stop it immediately!](https://levelup.gitconnected.com/are-you-using-the-windows-snipping-tool-stop-it-immediately-903e6e1c2fab?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
