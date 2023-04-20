@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Best AI For Notion Users](https://medium.com/the-shortform/the-best-ai-for-notion-users-c00b62eaa046?source=rss-ae1e6291afc3------2)
 - [What Notion AI Offers and Why You Absolutely Need It!](https://levelup.gitconnected.com/what-notion-ai-offers-and-why-you-absolutely-need-it-ee816d97f37a?source=rss-ae1e6291afc3------2)
 - [Start creating cross-platform apps with .NET MAUI](https://medium.com/the-shortform/start-creating-cross-platform-apps-with-net-maui-564123009f04?source=rss-ae1e6291afc3------2)
 - [How to implement Shell navigation, data-binding, and dependency injection in .NET MAUI](https://levelup.gitconnected.com/how-to-implement-shell-navigation-data-binding-and-dependency-injection-in-net-maui-8f8adc50e759?source=rss-ae1e6291afc3------2)
 - [3 Neat Debugging Tips for Visual Studio That You Might Have Never Heard Of](https://levelup.gitconnected.com/3-neat-debugging-tips-for-visual-studio-that-you-might-have-never-heard-of-fcf4af5ee946?source=rss-ae1e6291afc3------2)
-- [How to Create a Content Management System for Content Creators in Notion](https://levelup.gitconnected.com/how-to-create-a-content-management-system-for-content-creators-in-notion-dd20f8b15319?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
