@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Pimp Your Flutter Apps With Animations!](https://medium.com/the-shortform/pimp-your-flutter-apps-with-animations-ccb6d1a92d9b?source=rss-ae1e6291afc3------2)
 - [How to use animations and animated widgets in Flutter apps](https://levelup.gitconnected.com/how-to-use-animations-and-animated-widgets-in-flutter-apps-8fda9d6993ae?source=rss-ae1e6291afc3------2)
 - [Are You A Flutter Or A .NET MAUI Person?](https://medium.com/the-shortform/are-you-a-flutter-or-a-net-maui-person-f10359bb072f?source=rss-ae1e6291afc3------2)
 - [Microsoft Edge and the Privacy Issue: URLs Sent to Bing](https://xeladu.medium.com/microsoft-edge-and-the-privacy-issue-urls-sent-to-bing-14fe708e90e6?source=rss-ae1e6291afc3------2)
 - [Flutter vs .NET MAUI: Which is better for creating cross-platform apps?](https://levelup.gitconnected.com/flutter-vs-net-maui-which-is-better-for-creating-cross-platform-apps-7764c92d50bd?source=rss-ae1e6291afc3------2)
-- [The Best AI For Notion Users](https://medium.com/the-shortform/the-best-ai-for-notion-users-c00b62eaa046?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
