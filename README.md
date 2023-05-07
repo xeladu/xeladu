@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [A First Look At Microsoft Loop: Is It Better Than Notion?](https://quickcoder.org/microsoft-loop-review/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-loop-review)
 - [Flutter vs .NET MAUI: Which is better for creating cross-platform apps?](https://quickcoder.org/flutter-vs-net-maui/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-vs-net-maui)
 - [How to use animations and animated widgets in Flutter apps](https://quickcoder.org/flutter-animations/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-animations)
 - [How I use Charts in Notion to visualize data more efficiently](https://quickcoder.org/notion-charts/?utm_source=rss&utm_medium=rss&utm_campaign=notion-charts)
 - [What Notion AI Offers and Why You Absolutely Need It!](https://quickcoder.org/notion-ai/?utm_source=rss&utm_medium=rss&utm_campaign=notion-ai)
-- [How to implement Shell navigation, data-binding, and dependency injection in .NET MAUI](https://quickcoder.org/net-maui-jumpstart/?utm_source=rss&utm_medium=rss&utm_campaign=net-maui-jumpstart)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
