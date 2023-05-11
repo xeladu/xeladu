@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A First Look At Microsoft Loop: Is It Better Than Notion?](https://levelup.gitconnected.com/a-first-look-at-microsoft-loop-is-it-better-than-notion-80d43315bd6?source=rss-ae1e6291afc3------2)
 - [Charts And Graphs In Notion? Here Is How You Do It!](https://medium.com/the-shortform/charts-and-graphs-in-notion-here-is-how-you-do-it-5c70e57c788?source=rss-ae1e6291afc3------2)
 - [Pimp Your Flutter Apps With Animations!](https://medium.com/the-shortform/pimp-your-flutter-apps-with-animations-ccb6d1a92d9b?source=rss-ae1e6291afc3------2)
 - [How to use animations and animated widgets in Flutter apps](https://levelup.gitconnected.com/how-to-use-animations-and-animated-widgets-in-flutter-apps-8fda9d6993ae?source=rss-ae1e6291afc3------2)
 - [Are You A Flutter Or A .NET MAUI Person?](https://medium.com/the-shortform/are-you-a-flutter-or-a-net-maui-person-f10359bb072f?source=rss-ae1e6291afc3------2)
-- [Microsoft Edge and the Privacy Issue: URLs Sent to Bing](https://xeladu.medium.com/microsoft-edge-and-the-privacy-issue-urls-sent-to-bing-14fe708e90e6?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
