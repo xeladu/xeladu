@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The .NET MAUI Shell Control In Depth](https://levelup.gitconnected.com/the-net-maui-shell-control-in-depth-530e586c09b5?source=rss-ae1e6291afc3------2)
 - [Is Microsoft Loop Already Worth A Try?](https://medium.com/the-shortform/is-microsoft-loop-already-worth-a-try-7c46cb5d453f?source=rss-ae1e6291afc3------2)
 - [A First Look At Microsoft Loop: Is It Better Than Notion?](https://levelup.gitconnected.com/a-first-look-at-microsoft-loop-is-it-better-than-notion-80d43315bd6?source=rss-ae1e6291afc3------2)
 - [Charts And Graphs In Notion? Here Is How You Do It!](https://medium.com/the-shortform/charts-and-graphs-in-notion-here-is-how-you-do-it-5c70e57c788?source=rss-ae1e6291afc3------2)
 - [Pimp Your Flutter Apps With Animations!](https://medium.com/the-shortform/pimp-your-flutter-apps-with-animations-ccb6d1a92d9b?source=rss-ae1e6291afc3------2)
-- [How to use animations and animated widgets in Flutter apps](https://levelup.gitconnected.com/how-to-use-animations-and-animated-widgets-in-flutter-apps-8fda9d6993ae?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
