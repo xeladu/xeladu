@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A First Look At The New Visual Studio User Interface](https://levelup.gitconnected.com/a-first-look-at-the-new-visual-studio-user-interface-6920db2c6db9?source=rss-ae1e6291afc3------2)
 - [New Firebase Features Introduced at Google I/O 2023](https://levelup.gitconnected.com/new-firebase-features-introduced-at-google-i-o-2023-d7b7e572cc39?source=rss-ae1e6291afc3------2)
 - [A Quick Start For Developing Shell Apps In .NET MAUI](https://medium.com/the-shortform/a-quick-start-for-developing-shell-apps-in-net-maui-928880e32d08?source=rss-ae1e6291afc3------2)
 - [The .NET MAUI Shell Control In Depth](https://levelup.gitconnected.com/the-net-maui-shell-control-in-depth-530e586c09b5?source=rss-ae1e6291afc3------2)
 - [Is Microsoft Loop Already Worth A Try?](https://medium.com/the-shortform/is-microsoft-loop-already-worth-a-try-7c46cb5d453f?source=rss-ae1e6291afc3------2)
-- [A First Look At Microsoft Loop: Is It Better Than Notion?](https://levelup.gitconnected.com/a-first-look-at-microsoft-loop-is-it-better-than-notion-80d43315bd6?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
