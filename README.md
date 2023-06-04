@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Explore These Free UI Control Libraries for .NET MAUI](https://levelup.gitconnected.com/explore-these-free-ui-control-libraries-for-net-maui-bd976feb5172?source=rss-ae1e6291afc3------2)
 - [This REST API has a PDF Documentation with over 8,500 Pages!](https://medium.com/the-shortform/this-rest-api-has-a-pdf-documentation-with-over-8-500-pages-4fc23cbf1544?source=rss-ae1e6291afc3------2)
 - [Missed Google I/O 2023? Here’s what’s new in Firebase!](https://medium.com/the-shortform/missed-google-i-o-2023-heres-what-s-new-in-firebase-38a396233e5a?source=rss-ae1e6291afc3------2)
 - [What You Can Do With The Azure DevOps REST API](https://levelup.gitconnected.com/what-you-can-do-with-the-azure-devops-rest-api-2209b127e889?source=rss-ae1e6291afc3------2)
 - [A First Look At The New Visual Studio User Interface](https://levelup.gitconnected.com/a-first-look-at-the-new-visual-studio-user-interface-6920db2c6db9?source=rss-ae1e6291afc3------2)
-- [New Firebase Features Introduced at Google I/O 2023](https://levelup.gitconnected.com/new-firebase-features-introduced-at-google-i-o-2023-d7b7e572cc39?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
