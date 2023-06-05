@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to easily organize your blog articles with Notion](https://quickcoder.org/how-to-easily-organize-your-blog-articles-with-notion/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-easily-organize-your-blog-articles-with-notion)
 - [What You Can Do With The Azure DevOps REST API](https://quickcoder.org/azure-devops-api/?utm_source=rss&utm_medium=rss&utm_campaign=azure-devops-api)
 - [The .NET MAUI Shell Control In Depth](https://quickcoder.org/net-maui-shell/?utm_source=rss&utm_medium=rss&utm_campaign=net-maui-shell)
 - [A First Look At Microsoft Loop: Is It Better Than Notion?](https://quickcoder.org/microsoft-loop-review/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-loop-review)
 - [Flutter vs .NET MAUI: Which is better for creating cross-platform apps?](https://quickcoder.org/flutter-vs-net-maui/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-vs-net-maui)
-- [How to use animations and animated widgets in Flutter apps](https://quickcoder.org/flutter-animations/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-animations)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
