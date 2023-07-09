@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Delete Your Personal Data From The Internet With Incogni](https://levelup.gitconnected.com/how-to-delete-your-personal-data-from-the-internet-with-incogni-5e6cf00415e5?source=rss-ae1e6291afc3------2)
 - [Need A SCRUM Board? Try Notion!](https://medium.com/the-shortform/need-a-scrum-board-try-notion-6d77ce3a296a?source=rss-ae1e6291afc3------2)
 - [Here Are 3 Free UI Control Libraries For .NET MAUI](https://medium.com/the-shortform/here-are-3-free-ui-control-libraries-for-net-maui-7e9df6c156bb?source=rss-ae1e6291afc3------2)
 - [Notion AI Takes Blog Article Writing to The Next Level!](https://medium.com/the-shortform/notion-ai-takes-blog-article-writing-to-the-next-level-374b9e1b395d?source=rss-ae1e6291afc3------2)
 - [Learn how to master Firebase Cloud Firestore with this new eBook](https://xeladu.medium.com/learn-how-to-master-firebase-cloud-firestore-with-this-new-ebook-18b76430c26f?source=rss-ae1e6291afc3------2)
-- [Choose the Best Data Storage Solution for Your Flutter App](https://levelup.gitconnected.com/choose-the-best-data-storage-solution-for-your-flutter-app-9987dd7e4a7e?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
