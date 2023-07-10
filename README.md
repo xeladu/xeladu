@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [What The New Firebase AI Extensions Can Do For Your Apps](https://quickcoder.org/firebase-ai-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-ai-extensions)
 - [How To Delete Your Personal Data From The Internet With Incogni](https://quickcoder.org/how-to-delete-your-personal-data-from-the-internet-with-incogni/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-delete-your-personal-data-from-the-internet-with-incogni)
 - [Choose the Best Data Storage Solution for Your Flutter App](https://quickcoder.org/choose-the-best-data-storage-solution-for-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=choose-the-best-data-storage-solution-for-your-flutter-app)
 - [How To Use Notion AI To Create Blog Articles](https://quickcoder.org/use-notion-ai-to-create-blog-articles/?utm_source=rss&utm_medium=rss&utm_campaign=use-notion-ai-to-create-blog-articles)
 - [Yes, You Can Build Your Own SCRUM Board In Notion!](https://quickcoder.org/build-scrum-board-in-notion/?utm_source=rss&utm_medium=rss&utm_campaign=build-scrum-board-in-notion)
-- [How to easily organize your blog articles with Notion](https://quickcoder.org/how-to-easily-organize-your-blog-articles-with-notion/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-easily-organize-your-blog-articles-with-notion)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
