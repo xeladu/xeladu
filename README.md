@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to Remove the Debug Banner in a Flutter Application](https://quickcoder.org/remove-flutter-debug-banner/?utm_source=rss&utm_medium=rss&utm_campaign=remove-flutter-debug-banner)
 - [The Ultimate Guide for Working with the Firebase Console!](https://quickcoder.org/ultimate-guide-for-working-with-the-firebase-console/?utm_source=rss&utm_medium=rss&utm_campaign=ultimate-guide-for-working-with-the-firebase-console)
 - [What The New Firebase AI Extensions Can Do For Your Apps](https://quickcoder.org/firebase-ai-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-ai-extensions)
 - [How To Delete Your Personal Data From The Internet With Incogni](https://quickcoder.org/how-to-delete-your-personal-data-from-the-internet-with-incogni/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-delete-your-personal-data-from-the-internet-with-incogni)
 - [Choose the Best Data Storage Solution for Your Flutter App](https://quickcoder.org/choose-the-best-data-storage-solution-for-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=choose-the-best-data-storage-solution-for-your-flutter-app)
-- [How To Use Notion AI To Create Blog Articles](https://quickcoder.org/use-notion-ai-to-create-blog-articles/?utm_source=rss&utm_medium=rss&utm_campaign=use-notion-ai-to-create-blog-articles)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
