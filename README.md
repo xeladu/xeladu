@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Emails For Free With the Brevo REST API](https://levelup.gitconnected.com/how-to-send-emails-for-free-with-the-brevo-rest-api-957bdad8fca5?source=rss-ae1e6291afc3------2)
 - [How to Remove the Debug Banner in a Flutter Application](https://levelup.gitconnected.com/how-to-remove-the-debug-banner-in-a-flutter-application-2218ac39cad8?source=rss-ae1e6291afc3------2)
 - [Boost Your Medium Stats Page with These 7 Tools for Free](https://medium.com/the-shortform/boost-your-medium-stats-page-with-these-7-tools-for-free-398490f2999a?source=rss-ae1e6291afc3------2)
 - [The Ultimate Guide for Working with the Firebase Console!](https://levelup.gitconnected.com/the-ultimate-guide-for-working-with-the-firebase-console-45766ad0456?source=rss-ae1e6291afc3------2)
 - [What The New Firebase AI Extensions Can Do For Your Apps](https://levelup.gitconnected.com/what-the-new-firebase-ai-extensions-can-do-for-your-apps-600662220da2?source=rss-ae1e6291afc3------2)
-- [Here Are My Tips For Organizing Your Blog Articles With Notion](https://medium.com/the-shortform/here-are-my-tips-for-organizing-your-blog-articles-with-notion-d7c702e4e219?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
