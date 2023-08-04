@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to Create Custom Controls with Data Binding in .NET MAUI](https://quickcoder.org/how-to-create-custom-controls-with-data-binding-in-net-maui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-custom-controls-with-data-binding-in-net-maui)
 - [How to Send Emails For Free With the Brevo REST API](https://quickcoder.org/free-emails-brevo-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=free-emails-brevo-rest-api)
 - [How to Remove the Debug Banner in a Flutter Application](https://quickcoder.org/remove-flutter-debug-banner/?utm_source=rss&utm_medium=rss&utm_campaign=remove-flutter-debug-banner)
 - [The Ultimate Guide for Working with the Firebase Console!](https://quickcoder.org/ultimate-guide-for-working-with-the-firebase-console/?utm_source=rss&utm_medium=rss&utm_campaign=ultimate-guide-for-working-with-the-firebase-console)
 - [What The New Firebase AI Extensions Can Do For Your Apps](https://quickcoder.org/firebase-ai-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-ai-extensions)
-- [How To Delete Your Personal Data From The Internet With Incogni](https://quickcoder.org/how-to-delete-your-personal-data-from-the-internet-with-incogni/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-delete-your-personal-data-from-the-internet-with-incogni)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
