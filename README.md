@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix CORS Errors in Web Applications](https://levelup.gitconnected.com/how-to-fix-cors-errors-in-web-applications-800a553b4760?source=rss-ae1e6291afc3------2)
 - [How to Create Custom Controls with Data Binding in .NET MAUI](https://levelup.gitconnected.com/how-to-create-custom-controls-with-data-binding-in-net-maui-b041d8f3f9ae?source=rss-ae1e6291afc3------2)
 - [Take Control Over Your Personal Data!](https://medium.com/the-shortform/take-control-over-your-personal-data-467f6d1ac231?source=rss-ae1e6291afc3------2)
 - [How to Send Emails For Free With the Brevo REST API](https://levelup.gitconnected.com/how-to-send-emails-for-free-with-the-brevo-rest-api-957bdad8fca5?source=rss-ae1e6291afc3------2)
 - [How to Remove the Debug Banner in a Flutter Application](https://levelup.gitconnected.com/how-to-remove-the-debug-banner-in-a-flutter-application-2218ac39cad8?source=rss-ae1e6291afc3------2)
-- [Boost Your Medium Stats Page with These 7 Tools for Free](https://medium.com/the-shortform/boost-your-medium-stats-page-with-these-7-tools-for-free-398490f2999a?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
