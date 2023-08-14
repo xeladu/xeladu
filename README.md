@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [I Built A Custom Search Function For My WordPress Blog With Flutter And Firebase](https://quickcoder.org/custom-search-function-for-wordpress-with-flutter-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=custom-search-function-for-wordpress-with-flutter-and-firebase)
 - [How to Fix CORS Errors in Web Applications](https://quickcoder.org/how-to-fix-cors-errors/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-cors-errors)
 - [How to Create Custom Controls with Data Binding in .NET MAUI](https://quickcoder.org/how-to-create-custom-controls-with-data-binding-in-net-maui/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-custom-controls-with-data-binding-in-net-maui)
 - [How to Send Emails For Free With the Brevo REST API](https://quickcoder.org/free-emails-brevo-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=free-emails-brevo-rest-api)
 - [How to Remove the Debug Banner in a Flutter Application](https://quickcoder.org/remove-flutter-debug-banner/?utm_source=rss&utm_medium=rss&utm_campaign=remove-flutter-debug-banner)
-- [The Ultimate Guide for Working with the Firebase Console!](https://quickcoder.org/ultimate-guide-for-working-with-the-firebase-console/?utm_source=rss&utm_medium=rss&utm_campaign=ultimate-guide-for-working-with-the-firebase-console)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### My preferred tools and frameworks
