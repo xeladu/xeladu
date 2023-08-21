@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Here Are Six E-books About Google Firebase For Developers!](https://medium.com/firebase-ninja/here-are-six-e-books-about-google-firebase-for-developers-39be0266f74c?source=rss-ae1e6291afc3------2)
 - [Are You Making The Most Of The Firebase Console?](https://medium.com/the-shortform/are-you-making-the-most-of-the-firebase-console-d13dd829ba31?source=rss-ae1e6291afc3------2)
 - [Compare Any Two Files You Want With Visual Studio 2022](https://xeladu.medium.com/compare-any-two-files-you-want-with-visual-studio-2022-37c5b1a51ba?source=rss-ae1e6291afc3------2)
 - [I Built A Custom Search Function For My WordPress Blog With Flutter And Firebase](https://levelup.gitconnected.com/i-built-a-custom-search-function-for-my-wordpress-blog-with-flutter-and-firebase-45ff1a2711a9?source=rss-ae1e6291afc3------2)
 - [How to Fix CORS Errors in Web Applications](https://levelup.gitconnected.com/how-to-fix-cors-errors-in-web-applications-800a553b4760?source=rss-ae1e6291afc3------2)
-- [How to Create Custom Controls with Data Binding in .NET MAUI](https://levelup.gitconnected.com/how-to-create-custom-controls-with-data-binding-in-net-maui-b041d8f3f9ae?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
