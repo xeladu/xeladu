@@ -30,6 +30,13 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - [How to Send Emails For Free With the Brevo REST API](https://quickcoder.org/free-emails-brevo-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=free-emails-brevo-rest-api)
 <!-- QC-BLOG-POST-LIST:END -->
 
+### Other contributions
+
+- I have published numerous ebooks about [Firebase](https://xeladu.gumroad.com/?tags=firebase)
+- My [Medium publication FirebaseNinja](https://quickcoder.org/flutter-app-development-course/) hosts news and tutorials about Firebase
+- I run a free [monthly Medium newsletter](http://mn.quickcoder.org) with abstracts of my published content, news, freebies, and discounts on my products
+- I offer two free email courses to learn Flutter: The [Flutter Starter Course](https://quickcoder.org/flutter-starter-course/) for beginners and the [Flutter App Development Course](https://quickcoder.org/flutter-app-development-course/) with advanced concepts
+
 ### My preferred tools and frameworks
  <p>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -42,15 +49,3 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
   </p>
   
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeladu&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xeladu" /></p>
-
-
-
-
-### How you can support me
-
-If you like my work in general, feel free to support me in any way ❤
-
-- You can become a GitHub sponsor 🤩
-- You can [browse my Gumroad store](https://xeladu.gumroad.com) for ebooks and freebies 📙
-- You can [join my free monthly Medium Newsletter](https://bit.ly/xeladu-medium) 💌
-- You can [find all my published stuff here](https://xeladu.medium.com/%E2%84%B9-xeladus-info-point-find-quickly-what-you-need-bbe620e97d8c) 📑
