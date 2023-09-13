@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Watch Out For These Traps When Creating Controls With .NET MAUI](https://medium.com/the-shortform/watch-out-for-these-traps-when-creating-controls-with-net-maui-1366cc6ab25a?source=rss-ae1e6291afc3------2)
 - [Need a Free Bulk-Email Sender with a REST API? Try Brevo!](https://medium.com/the-shortform/need-a-free-bulk-email-sender-with-a-rest-api-try-brevo-3124fd63f964?source=rss-ae1e6291afc3------2)
 - [How To Connect Data Between Different Firebase Services](https://medium.com/firebase-ninja/how-to-connect-data-between-different-firebase-services-96573367d96c?source=rss-ae1e6291afc3------2)
 - [I Have Finally Reached 1,000 Followers on Medium!](https://xeladu.medium.com/i-have-finally-reached-1-000-followers-on-medium-caa7b6da4196?source=rss-ae1e6291afc3------2)
 - [Show a Preview Image in Visual Studio With This New Extension!](https://xeladu.medium.com/show-a-preview-image-in-visual-studio-with-this-new-extension-64c03ced8ebf?source=rss-ae1e6291afc3------2)
-- [How to Add New Apps to a Firebase Project](https://medium.com/firebase-ninja/how-to-add-new-apps-to-a-firebase-project-39b1223d04a3?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
