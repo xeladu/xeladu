@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Fix API Calls That Always Return 401 With Access Token](https://quickcoder.org/api-always-returns-401-when-using-an-access-token/?utm_source=rss&utm_medium=rss&utm_campaign=api-always-returns-401-when-using-an-access-token)
 - [How To Connect Data Between Different Firebase Services](https://quickcoder.org/how-to-connect-data-between-different-firebase-services/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-connect-data-between-different-firebase-services)
 - [Show a Preview Image in Visual Studio With This New Extension!](https://quickcoder.org/vs-image-preview/?utm_source=rss&utm_medium=rss&utm_campaign=vs-image-preview)
 - [Compare Any Two Files You Want With Visual Studio 2022](https://quickcoder.org/vs-compare-files/?utm_source=rss&utm_medium=rss&utm_campaign=vs-compare-files)
 - [I Built A Custom Search Function For My WordPress Blog With Flutter And Firebase](https://quickcoder.org/custom-search-function-for-wordpress-with-flutter-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=custom-search-function-for-wordpress-with-flutter-and-firebase)
-- [How to Fix CORS Errors in Web Applications](https://quickcoder.org/how-to-fix-cors-errors/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-cors-errors)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
