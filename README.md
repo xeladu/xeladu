@@ -33,12 +33,12 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 ### Other contributions
 
 - I have published numerous ebooks about [Firebase](https://xeladu.gumroad.com/?tags=firebase)
-- My [Medium publication FirebaseNinja](https://quickcoder.org/flutter-app-development-course/) hosts news and tutorials about Firebase
-- I run a free [monthly Medium newsletter](http://mn.quickcoder.org) with abstracts of my published content, news, freebies, and discounts on my products
-- I offer multiple free [email courses](https://quickcoder.org/newsletters#courses)
-  - The [Flutter Starter Course](https://quickcoder.org/flutter-starter-course/) to learn Flutter for beginners
-  - The [Flutter App Development Course](https://quickcoder.org/flutter-app-development-course/) introducing advanced concepts for Flutter developers
-  - The [Firebase Introduction Course](http://quickcoder.org/firebase-introduction-course/) to get a quick overview about several Firebase services
+- My [Medium publication FirebaseNinja](https://medium.com/firebase-ninja) hosts news and tutorials about Firebase
+- I run a free [monthly Medium newsletter](https://newsletter.quickcoder.org) with abstracts of my published content, news, freebies, and discounts on my products
+- I offer multiple free [email courses](https://courses.quickcoder.org)
+  - The [Flutter Starter Course](https://courses.quickcoder.org#flutterstarter) to learn Flutter for beginners
+  - The [Flutter App Development Course](https://courses.quickcoder.org#flutterappdev) introducing advanced concepts for Flutter developers
+  - The [Firebase Introduction Course](https://courses.quickcoder.org#firebaseintroduction) to get a quick overview about several Firebase services
 
 ### My preferred tools and frameworks
  <p>
