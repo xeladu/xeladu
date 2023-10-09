@@ -14,7 +14,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Bing Chat AI Is Spreading Fake News Again!](https://xeladu.medium.com/bing-chat-ai-is-spreading-fake-news-again-34aa8e2901b9?source=rss-ae1e6291afc3------2)
+- [Bing Chat AI Is Spreading Fake News Again!](https://medium.com/aimonks/bing-chat-ai-is-spreading-fake-news-again-34aa8e2901b9?source=rss-ae1e6291afc3------2)
 - [How to Delete a Firebase Project](https://medium.com/firebase-ninja/how-to-delete-a-firebase-project-6be9e88b27ee?source=rss-ae1e6291afc3------2)
 - [Firebase Limits Hosting and Storing of Executable Files](https://medium.com/firebase-ninja/firebase-limits-hosting-and-storing-of-executable-files-f300541b7f41?source=rss-ae1e6291afc3------2)
 - [Use These 6 Privacy Tips To Safeguard Your Data Online](https://levelup.gitconnected.com/use-these-6-privacy-tips-to-safeguard-your-data-online-d758dab449d3?source=rss-ae1e6291afc3------2)
