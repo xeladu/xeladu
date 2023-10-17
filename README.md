@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How to Implement Drag and Drop in a Flutter Application](https://quickcoder.org/how-to-implement-drag-and-drop-in-a-flutter-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-drag-and-drop-in-a-flutter-application)
 - [How NOT to Initialize Lists in Dart: Avoiding Object Sharing and Null Value Surprises](https://quickcoder.org/how-not-to-initialize-lists-in-dart/?utm_source=rss&utm_medium=rss&utm_campaign=how-not-to-initialize-lists-in-dart)
 - [Use These 6 Privacy Tips To Safeguard Your Data Online](https://quickcoder.org/six-privacy-tips-to-safeguard-your-data-online/?utm_source=rss&utm_medium=rss&utm_campaign=six-privacy-tips-to-safeguard-your-data-online)
 - [How To Make A Simple Quiz Page Widget For Flutter Apps](https://quickcoder.org/how-to-make-a-simple-quiz-page-widget-for-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-simple-quiz-page-widget-for-flutter-apps)
 - [How To Fix API Calls That Always Return 401 With Access Token](https://quickcoder.org/api-always-returns-401-when-using-an-access-token/?utm_source=rss&utm_medium=rss&utm_campaign=api-always-returns-401-when-using-an-access-token)
+- [How To Connect Data Between Different Firebase Services](https://quickcoder.org/how-to-connect-data-between-different-firebase-services/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-connect-data-between-different-firebase-services)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
