@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Join Firebase’s First Demo Day on November 8, 2023!](https://medium.com/firebase-ninja/join-firebases-first-demo-day-on-november-8-2023-6a11631b7506?source=rss-ae1e6291afc3------2)
 - [How to Implement Drag and Drop in a Flutter Application](https://blog.stackademic.com/how-to-implement-drag-and-drop-in-a-flutter-application-21661d2c6134?source=rss-ae1e6291afc3------2)
 - [How NOT to Initialize Lists in Dart: Avoiding Object Sharing and Null Value Surprises](https://blog.stackademic.com/how-not-to-initialize-lists-in-dart-avoiding-object-sharing-and-null-value-surprises-66ef757ba0eb?source=rss-ae1e6291afc3------2)
 - [Bing Chat AI Is Spreading Fake News Again!](https://medium.com/aimonks/bing-chat-ai-is-spreading-fake-news-again-34aa8e2901b9?source=rss-ae1e6291afc3------2)
 - [How to Delete a Firebase Project](https://medium.com/firebase-ninja/how-to-delete-a-firebase-project-6be9e88b27ee?source=rss-ae1e6291afc3------2)
-- [Firebase Limits Hosting and Storing of Executable Files](https://medium.com/firebase-ninja/firebase-limits-hosting-and-storing-of-executable-files-f300541b7f41?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
