@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [Get Enhanced Code Examples from GitHub for your API Methods in Visual Studio 2022](https://quickcoder.org/show-github-code-examples-in-visual-studio/?utm_source=rss&utm_medium=rss&utm_campaign=show-github-code-examples-in-visual-studio)
 - [How to Use the Scaffold Widget in a Flutter Application](https://quickcoder.org/how-to-use-the-scaffold-widget-in-a-flutter-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-the-scaffold-widget-in-a-flutter-application)
 - [How to Implement Drag and Drop in a Flutter Application](https://quickcoder.org/how-to-implement-drag-and-drop-in-a-flutter-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-drag-and-drop-in-a-flutter-application)
 - [How NOT to Initialize Lists in Dart: Avoiding Object Sharing and Null Value Surprises](https://quickcoder.org/how-not-to-initialize-lists-in-dart/?utm_source=rss&utm_medium=rss&utm_campaign=how-not-to-initialize-lists-in-dart)
 - [Use These 6 Privacy Tips To Safeguard Your Data Online](https://quickcoder.org/six-privacy-tips-to-safeguard-your-data-online/?utm_source=rss&utm_medium=rss&utm_campaign=six-privacy-tips-to-safeguard-your-data-online)
-- [How To Make A Simple Quiz Page Widget For Flutter Apps](https://quickcoder.org/how-to-make-a-simple-quiz-page-widget-for-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-a-simple-quiz-page-widget-for-flutter-apps)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
