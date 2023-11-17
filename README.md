@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What The … ?! Medium Paid Me A Bonus?!](https://xeladu.medium.com/what-the-medium-paid-me-a-bonus-5292eb6af9b4?source=rss-ae1e6291afc3------2)
 - [Firebase Adds Windows Support For Flutter Apps!](https://medium.com/firebase-ninja/firebase-adds-windows-support-for-flutter-apps-0141aafa5a86?source=rss-ae1e6291afc3------2)
 - [How To Create Beautiful Charts And Graphs In Your Flutter Application](https://levelup.gitconnected.com/how-to-create-beautiful-charts-and-graphs-in-your-flutter-application-a85231b52e7c?source=rss-ae1e6291afc3------2)
 - [Get Enhanced Code Examples from GitHub for your API Methods in Visual Studio 2022](https://xeladu.medium.com/get-enhanced-code-examples-from-github-for-your-api-methods-in-visual-studio-2022-6dfb142b3776?source=rss-ae1e6291afc3------2)
 - [How to Use the Scaffold Widget in a Flutter Application](https://levelup.gitconnected.com/how-to-use-the-scaffold-widget-in-a-flutter-application-4f41cd8c9b1d?source=rss-ae1e6291afc3------2)
-- [Join Firebase’s First Demo Day on November 8, 2023!](https://medium.com/firebase-ninja/join-firebases-first-demo-day-on-november-8-2023-6a11631b7506?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
