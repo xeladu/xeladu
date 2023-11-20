@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Fix Firebase Hosting Errors When Using Automatic Deployment With GitHub](https://quickcoder.org/how-to-fix-firebase-hosting-errors-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-firebase-hosting-errors-on-github)
 - [How You Can Enhance Your Code Quality With NDepend](https://quickcoder.org/how-you-can-enhance-your-code-quality-with-ndepend/?utm_source=rss&utm_medium=rss&utm_campaign=how-you-can-enhance-your-code-quality-with-ndepend)
 - [How To Create Beautiful Charts And Graphs In Your Flutter Application](https://quickcoder.org/how-to-create-charts-and-graphs-in-your-flutter-pplication/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-charts-and-graphs-in-your-flutter-pplication)
 - [Get Enhanced Code Examples from GitHub for your API Methods in Visual Studio 2022](https://quickcoder.org/show-github-code-examples-in-visual-studio/?utm_source=rss&utm_medium=rss&utm_campaign=show-github-code-examples-in-visual-studio)
 - [How to Use the Scaffold Widget in a Flutter Application](https://quickcoder.org/how-to-use-the-scaffold-widget-in-a-flutter-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-the-scaffold-widget-in-a-flutter-application)
-- [How to Implement Drag and Drop in a Flutter Application](https://quickcoder.org/how-to-implement-drag-and-drop-in-a-flutter-application/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-drag-and-drop-in-a-flutter-application)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
