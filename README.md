@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Resolve .NET MAUI Issues After The Release Of .NET 8](https://quickcoder.org/how-to-resolve-net-maui-issues-after-the-release-of-net8/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-resolve-net-maui-issues-after-the-release-of-net8)
 - [Learn All About The New C# 12 Features!](https://quickcoder.org/learn-all-about-the-new-c-12-features/?utm_source=rss&utm_medium=rss&utm_campaign=learn-all-about-the-new-c-12-features)
 - [How To Fix Firebase Hosting Errors When Using Automatic Deployment With GitHub](https://quickcoder.org/how-to-fix-firebase-hosting-errors-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-firebase-hosting-errors-on-github)
 - [How You Can Enhance Your Code Quality With NDepend](https://quickcoder.org/how-you-can-enhance-your-code-quality-with-ndepend/?utm_source=rss&utm_medium=rss&utm_campaign=how-you-can-enhance-your-code-quality-with-ndepend)
 - [How To Create Beautiful Charts And Graphs In Your Flutter Application](https://quickcoder.org/how-to-create-charts-and-graphs-in-your-flutter-pplication/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-charts-and-graphs-in-your-flutter-pplication)
-- [Get Enhanced Code Examples from GitHub for your API Methods in Visual Studio 2022](https://quickcoder.org/show-github-code-examples-in-visual-studio/?utm_source=rss&utm_medium=rss&utm_campaign=show-github-code-examples-in-visual-studio)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
