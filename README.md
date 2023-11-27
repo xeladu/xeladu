@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Resolve .NET MAUI Issues After The Release Of .NET 8](https://levelup.gitconnected.com/how-to-resolve-net-maui-issues-after-the-release-of-net-8-59b270ba529b?source=rss-ae1e6291afc3------2)
 - [Learn All About The New C# 12 Features!](https://blog.stackademic.com/learn-all-about-the-new-c-12-features-23e5b2d6179a?source=rss-ae1e6291afc3------2)
 - [How To Fix Firebase Hosting Errors When Using Automatic Deployment With GitHub](https://medium.com/firebase-ninja/how-to-fix-firebase-hosting-errors-when-using-automatic-deployment-with-github-9bd662867fbf?source=rss-ae1e6291afc3------2)
 - [How You Can Enhance Your Code Quality With NDepend](https://levelup.gitconnected.com/how-you-can-enhance-your-code-quality-with-ndepend-13b0eb4a6219?source=rss-ae1e6291afc3------2)
 - [What The … ?! Medium Paid Me A Bonus?!](https://xeladu.medium.com/what-the-medium-paid-me-a-bonus-5292eb6af9b4?source=rss-ae1e6291afc3------2)
-- [Firebase Adds Windows Support For Flutter Apps!](https://medium.com/firebase-ninja/firebase-adds-windows-support-for-flutter-apps-0141aafa5a86?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
