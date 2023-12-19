@@ -15,7 +15,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Try My New Gumroad Dashboard For Power Sellers!](https://xeladu.medium.com/try-my-new-gumroad-dashboard-for-power-sellers-0866bf44ff39?source=rss-ae1e6291afc3------2)
-- [How To Log In From A Flutter Web App With A Microsoft Account](https://blog.stackademic.com/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account-a740ff56efad?source=rss-ae1e6291afc3------2)
+- [How To Log In From A Flutter Web App With A Microsoft Account](https://medium.com/firebase-ninja/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account-a740ff56efad?source=rss-ae1e6291afc3------2)
 - [How To Resolve .NET MAUI Issues After The Release Of .NET 8](https://levelup.gitconnected.com/how-to-resolve-net-maui-issues-after-the-release-of-net-8-59b270ba529b?source=rss-ae1e6291afc3------2)
 - [Learn All About The New C# 12 Features!](https://blog.stackademic.com/learn-all-about-the-new-c-12-features-23e5b2d6179a?source=rss-ae1e6291afc3------2)
 - [How To Fix Firebase Hosting Errors When Using Automatic Deployment With GitHub](https://medium.com/firebase-ninja/how-to-fix-firebase-hosting-errors-when-using-automatic-deployment-with-github-9bd662867fbf?source=rss-ae1e6291afc3------2)
