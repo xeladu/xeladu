@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How To Create Beautiful Line Charts In A Flutter App](https://quickcoder.org/how-to-create-beautiful-line-charts-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-beautiful-line-charts-in-a-flutter-app)
 - [How To Log In From A Flutter Web App With A Microsoft Account](https://quickcoder.org/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account)
 - [How To Resolve .NET MAUI Issues After The Release Of .NET 8](https://quickcoder.org/how-to-resolve-net-maui-issues-after-the-release-of-net8/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-resolve-net-maui-issues-after-the-release-of-net8)
 - [Learn All About The New C# 12 Features!](https://quickcoder.org/learn-all-about-the-new-c-12-features/?utm_source=rss&utm_medium=rss&utm_campaign=learn-all-about-the-new-c-12-features)
 - [How To Fix Firebase Hosting Errors When Using Automatic Deployment With GitHub](https://quickcoder.org/how-to-fix-firebase-hosting-errors-on-github/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-fix-firebase-hosting-errors-on-github)
+- [How You Can Enhance Your Code Quality With NDepend](https://quickcoder.org/how-you-can-enhance-your-code-quality-with-ndepend/?utm_source=rss&utm_medium=rss&utm_campaign=how-you-can-enhance-your-code-quality-with-ndepend)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
