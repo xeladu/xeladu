@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Just Released The Big December Update For The Advanced Gumroad Dashboard!](https://xeladu.medium.com/i-just-released-the-big-december-update-for-the-advanced-gumroad-dashboard-b92a1f79d9b1?source=rss-ae1e6291afc3------2)
 - [How To Create Beautiful Line Charts In A Flutter App](https://levelup.gitconnected.com/how-to-create-beautiful-line-charts-in-a-flutter-app-91f8da0ae661?source=rss-ae1e6291afc3------2)
 - [How To Set A Budget Alert In Firebase Console](https://medium.com/firebase-ninja/how-to-set-a-budget-alert-in-firebase-console-ab7c44dd04b8?source=rss-ae1e6291afc3------2)
 - [My Year-End Clean Up Procedure To Be Ready For 2024](https://xeladu.medium.com/my-year-end-clean-up-procedure-to-be-ready-for-2024-1ccb13fa9f9d?source=rss-ae1e6291afc3------2)
 - [Try My New Gumroad Dashboard For Power Sellers!](https://xeladu.medium.com/try-my-new-gumroad-dashboard-for-power-sellers-0866bf44ff39?source=rss-ae1e6291afc3------2)
-- [How To Log In From A Flutter Web App With A Microsoft Account](https://medium.com/firebase-ninja/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account-a740ff56efad?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
