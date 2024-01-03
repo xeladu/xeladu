@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [More Ebooks, Articles, And Software — What Happened In 2023?](https://medium.com/new-writers-welcome/more-ebooks-articles-and-software-what-happened-in-2023-0add672862d9?source=rss-ae1e6291afc3------2)
 - [A Hands-On Comparison Between Flutter and .NET MAUI](https://medium.com/the-shortform/a-hands-on-comparison-between-flutter-and-net-maui-f82547e43cbf?source=rss-ae1e6291afc3------2)
 - [How to Delete an App From Your Firebase Project](https://medium.com/firebase-ninja/how-to-delete-an-app-from-your-firebase-project-151701224da4?source=rss-ae1e6291afc3------2)
 - [The Ups and Downs of My First Year in WordPress Blogging](https://xeladu.medium.com/the-ups-and-downs-of-my-first-year-in-wordpress-blogging-a36a7df604e8?source=rss-ae1e6291afc3------2)
 - [I Just Released The Big December Update For The Advanced Gumroad Dashboard!](https://xeladu.medium.com/i-just-released-the-big-december-update-for-the-advanced-gumroad-dashboard-b92a1f79d9b1?source=rss-ae1e6291afc3------2)
-- [How To Create Beautiful Line Charts In A Flutter App](https://levelup.gitconnected.com/how-to-create-beautiful-line-charts-in-a-flutter-app-91f8da0ae661?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
