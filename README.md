@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Manage Users in a Firebase Project](https://medium.com/firebase-ninja/how-to-manage-users-in-a-firebase-project-b8ba932b8678?source=rss-ae1e6291afc3------2)
 - [Here Are Some Ideas For Your Next Coding Project](https://medium.com/the-shortform/here-are-some-ideas-for-your-next-coding-project-cbf818fb089a?source=rss-ae1e6291afc3------2)
 - [More Ebooks, Articles, And Software — What Happened In 2023?](https://medium.com/new-writers-welcome/more-ebooks-articles-and-software-what-happened-in-2023-0add672862d9?source=rss-ae1e6291afc3------2)
 - [A Hands-On Comparison Between Flutter and .NET MAUI](https://medium.com/the-shortform/a-hands-on-comparison-between-flutter-and-net-maui-f82547e43cbf?source=rss-ae1e6291afc3------2)
 - [How to Delete an App From Your Firebase Project](https://medium.com/firebase-ninja/how-to-delete-an-app-from-your-firebase-project-151701224da4?source=rss-ae1e6291afc3------2)
-- [The Ups and Downs of My First Year in WordPress Blogging](https://xeladu.medium.com/the-ups-and-downs-of-my-first-year-in-wordpress-blogging-a36a7df604e8?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
