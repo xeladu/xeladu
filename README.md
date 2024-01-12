@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How To Store Flutter App Data On Your Device](https://www.quickcoder.org/how-to-store-flutter-app-data-on-your-device/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-store-flutter-app-data-on-your-device)
-- [How to create a Firebase project and link it with your Flutter app](https://www.quickcoder.org/firebase-flutter-setup/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-flutter-setup)
-- [How To Install Packages In Your Flutter App](https://www.quickcoder.org/how-to-install-packages-in-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-packages-in-your-flutter-app)
-- [How To Create Beautiful Line Charts In A Flutter App](https://www.quickcoder.org/how-to-create-beautiful-line-charts-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-beautiful-line-charts-in-a-flutter-app)
-- [How To Log In From A Flutter Web App With A Microsoft Account](https://www.quickcoder.org/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account)
+- [How To Store Flutter App Data On Your Device](https://quickcoder.org/how-to-store-flutter-app-data-on-your-device/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-store-flutter-app-data-on-your-device)
+- [How to create a Firebase project and link it with your Flutter app](https://quickcoder.org/firebase-flutter-setup/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-flutter-setup)
+- [How To Install Packages In Your Flutter App](https://quickcoder.org/how-to-install-packages-in-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-packages-in-your-flutter-app)
+- [How To Create Beautiful Line Charts In A Flutter App](https://quickcoder.org/how-to-create-beautiful-line-charts-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-beautiful-line-charts-in-a-flutter-app)
+- [How To Log In From A Flutter Web App With A Microsoft Account](https://quickcoder.org/how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-log-in-from-a-flutter-web-app-with-a-microsoft-account)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
