@@ -25,7 +25,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 <!-- QC-BLOG-POST-LIST:START -->
 - [How To Remove The Debug Banner In A Flutter Application](https://quickcoder.org/remove-flutter-debug-banner/?utm_source=rss&utm_medium=rss&utm_campaign=remove-flutter-debug-banner)
 - [How To Store Flutter App Data On Your Device](https://quickcoder.org/how-to-store-flutter-app-data-on-your-device/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-store-flutter-app-data-on-your-device)
-- [How to create a Firebase project and link it with your Flutter app](https://quickcoder.org/firebase-flutter-setup/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-flutter-setup)
+- [How To Create A Firebase Project And Link It With Your Flutter App](https://quickcoder.org/firebase-flutter-setup/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-flutter-setup)
 - [How To Install Packages In Your Flutter App](https://quickcoder.org/how-to-install-packages-in-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-packages-in-your-flutter-app)
 - [How To Create Beautiful Line Charts In A Flutter App](https://quickcoder.org/how-to-create-beautiful-line-charts-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-beautiful-line-charts-in-a-flutter-app)
 <!-- QC-BLOG-POST-LIST:END -->
