@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The January Update For The Advanced Gumroad Dashboard Is Here!](https://xeladu.medium.com/the-january-update-for-the-advanced-gumroad-dashboard-is-here-07d3ee9935d4?source=rss-ae1e6291afc3------2)
 - [How To Create A Nice Mouse Hover Effect In A Flutter App](https://levelup.gitconnected.com/how-to-create-a-nice-mouse-hover-effect-in-a-flutter-app-be14c07ee71e?source=rss-ae1e6291afc3------2)
 - [How To Store Flutter App Data On Your Device](https://levelup.gitconnected.com/how-to-store-flutter-app-data-on-your-device-08228f4bc36a?source=rss-ae1e6291afc3------2)
 - [How To Reference Flutter Packages From GIT Repositories](https://blog.stackademic.com/how-to-reference-flutter-packages-from-git-repositories-4c8dee4293e6?source=rss-ae1e6291afc3------2)
 - [Does It Help Your Stress Level To Set All Notifications To Silent?](https://medium.com/new-writers-welcome/does-it-help-your-stress-level-to-set-all-notifications-to-silent-b84d87257804?source=rss-ae1e6291afc3------2)
-- [How to Manage Users in a Firebase Project](https://medium.com/firebase-ninja/how-to-manage-users-in-a-firebase-project-b8ba932b8678?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
