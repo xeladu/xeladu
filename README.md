@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Navigate Between Pages In Your Flutter Application](https://quickcoder.org/flutter-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-navigation)
+- [How To Create A New Flutter Project](https://quickcoder.org/flutter-create-project/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-create-project)
 - [How To Prevent RichText Styling Issues In Flutter](https://quickcoder.org/how-to-prevent-richtext-styling-issues-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-richtext-styling-issues-in-flutter)
 - [How To Use Firebase Authentication In Your Flutter App](https://quickcoder.org/firebase-auth/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-auth)
 - [How To Create A Nice Mouse Hover Effect In A Flutter App](https://quickcoder.org/how-to-create-a-nice-mouse-hover-effect-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-a-nice-mouse-hover-effect-in-a-flutter-app)
-- [How To Remove The Debug Banner In A Flutter Application](https://quickcoder.org/remove-flutter-debug-banner/?utm_source=rss&utm_medium=rss&utm_campaign=remove-flutter-debug-banner)
-- [How To Store Flutter App Data On Your Device](https://quickcoder.org/how-to-store-flutter-app-data-on-your-device/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-store-flutter-app-data-on-your-device)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
