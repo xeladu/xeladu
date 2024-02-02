@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Replace App Config Settings In Azure DevOps](https://quickcoder.org/azure-replace-tokens/?utm_source=rss&utm_medium=rss&utm_campaign=azure-replace-tokens)
 - [How To Work With Firebase Cloud Functions In Flutter Apps](https://quickcoder.org/firebase-functions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-functions)
 - [How To Navigate Between Pages In Your Flutter Application](https://quickcoder.org/flutter-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-navigation)
 - [How To Create A New Flutter Project](https://quickcoder.org/flutter-create-project/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-create-project)
 - [How To Prevent RichText Styling Issues In Flutter](https://quickcoder.org/how-to-prevent-richtext-styling-issues-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-richtext-styling-issues-in-flutter)
-- [How To Use Firebase Authentication In Your Flutter App](https://quickcoder.org/firebase-auth/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-auth)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
