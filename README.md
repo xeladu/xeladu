@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How To Replace App Config Settings In Azure DevOps](https://quickcoder.org/azure-replace-tokens/?utm_source=rss&utm_medium=rss&utm_campaign=azure-replace-tokens)
-- [How To Work With Firebase Cloud Functions In Flutter Apps](https://quickcoder.org/firebase-functions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-functions)
-- [How To Navigate Between Pages In Your Flutter Application](https://quickcoder.org/flutter-navigation/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-navigation)
-- [How To Create A New Flutter Project](https://quickcoder.org/flutter-create-project/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-create-project)
-- [How To Prevent RichText Styling Issues In Flutter](https://quickcoder.org/how-to-prevent-richtext-styling-issues-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-richtext-styling-issues-in-flutter)
+- [How To Secure Your Firebase Backend With App Check](https://quickcoder.org/firebase-app-check/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-app-check)
+- [How To Easily Use Firebase Storage From Your Flutter App](https://quickcoder.org/firebase-storage/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-storage)
+- [How To Control Apps With Firebase Remote Config](https://quickcoder.org/firebase-remote-config/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-remote-config)
+- [How To Add New Firebase Features With Extensions](https://quickcoder.org/firebase-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-extensions)
+- [How To Host Your Flutter Web App With Firebase Hosting](https://quickcoder.org/firebase-hosting/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-hosting)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
