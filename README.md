@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How to Send Emails For Free With the Brevo REST API](https://quickcoder.org/free-emails-brevo-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=free-emails-brevo-rest-api)
 - [How To Secure Your Firebase Backend With App Check](https://quickcoder.org/firebase-app-check/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-app-check)
 - [How To Easily Use Firebase Storage From Your Flutter App](https://quickcoder.org/firebase-storage/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-storage)
 - [How To Control Apps With Firebase Remote Config](https://quickcoder.org/firebase-remote-config/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-remote-config)
 - [How To Add New Firebase Features With Extensions](https://quickcoder.org/firebase-extensions/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-extensions)
-- [How To Host Your Flutter Web App With Firebase Hosting](https://quickcoder.org/firebase-hosting/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-hosting)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
