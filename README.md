@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy Your Flutter Web App To Microsoft Azure](https://levelup.gitconnected.com/how-to-deploy-your-flutter-web-app-to-microsoft-azure-2c2d2163aa29?source=rss-ae1e6291afc3------2)
 - [How to Monitor Your Current Expenses in the Firebase Console](https://medium.com/firebase-ninja/how-to-monitor-your-current-expenses-in-the-firebase-console-dc5ed99ee321?source=rss-ae1e6291afc3------2)
 - [Why Google Punished Me For Moving My Blog To Another Hoster](https://levelup.gitconnected.com/why-google-punished-me-for-moving-my-blog-to-another-hoster-d68ab11595e1?source=rss-ae1e6291afc3------2)
 - [How To Prevent RichText Styling Issues In Flutter](https://blog.stackademic.com/how-to-prevent-richtext-styling-issues-in-flutter-bb2c2f8d51d9?source=rss-ae1e6291afc3------2)
 - [The January Update For The Advanced Gumroad Dashboard Is Here!](https://xeladu.medium.com/the-january-update-for-the-advanced-gumroad-dashboard-is-here-07d3ee9935d4?source=rss-ae1e6291afc3------2)
-- [How To Create A Nice Mouse Hover Effect In A Flutter App](https://levelup.gitconnected.com/how-to-create-a-nice-mouse-hover-effect-in-a-flutter-app-be14c07ee71e?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
