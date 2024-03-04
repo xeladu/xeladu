@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Prevent A Double Click On Buttons In Flutter Apps](https://levelup.gitconnected.com/how-to-prevent-a-double-click-on-buttons-in-flutter-apps-a835ec8048bf?source=rss-ae1e6291afc3------2)
 - [I Updated My Ebook The Flutter Firebase Compendium For 2024](https://medium.com/short-sweet-valuable/i-updated-my-ebook-the-flutter-firebase-compendium-for-2024-469081d5b806?source=rss-ae1e6291afc3------2)
 - [Monthly Update Cycle For The Advanced Gumroad Dashboard](https://xeladu.medium.com/monthly-update-cycle-for-the-advanced-gumroad-dashboard-ab9545069959?source=rss-ae1e6291afc3------2)
 - [How To Enable Firestore Cache In Flutter Web Apps](https://medium.com/firebase-ninja/how-to-enable-firestore-cache-in-flutter-web-apps-ffc15090c9a7?source=rss-ae1e6291afc3------2)
 - [How To Deploy Your Flutter Web App To Microsoft Azure](https://levelup.gitconnected.com/how-to-deploy-your-flutter-web-app-to-microsoft-azure-2c2d2163aa29?source=rss-ae1e6291afc3------2)
-- [How to Monitor Your Current Expenses in the Firebase Console](https://medium.com/firebase-ninja/how-to-monitor-your-current-expenses-in-the-firebase-console-dc5ed99ee321?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
