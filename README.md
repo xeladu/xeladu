@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Use Flutter Image Picker And Firebase Storage](https://quickcoder.org/how-to-use-flutter-image-picker-and-firebase-storage/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-flutter-image-picker-and-firebase-storage)
 - [How To Make Rounded Profile Pictures In Flutter](https://quickcoder.org/how-to-make-rounded-profile-pictures-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-rounded-profile-pictures-in-flutter)
 - [How To Prevent A Double Click On Buttons In Flutter Apps](https://quickcoder.org/how-to-prevent-a-double-click-on-buttons-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-a-double-click-on-buttons-in-flutter-apps)
 - [How To Enable Firestore Cache In Flutter Web Apps](https://quickcoder.org/how-to-enable-firestore-cache-in-flutter-web-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-enable-firestore-cache-in-flutter-web-apps)
 - [How To Deploy Your Flutter Web App To Microsoft Azure](https://quickcoder.org/how-to-deploy-your-flutter-web-app-to-microsoft-azure/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-deploy-your-flutter-web-app-to-microsoft-azure)
-- [How to Send Emails For Free With the Brevo REST API](https://quickcoder.org/free-emails-brevo-rest-api/?utm_source=rss&utm_medium=rss&utm_campaign=free-emails-brevo-rest-api)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
