@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
-- [How To Replace App Config Settings In Azure DevOps](https://quickcoder.org/azure-replace-tokens/?utm_source=rss&utm_medium=rss&utm_campaign=azure-replace-tokens)
-- [Choose the Best Data Storage Solution for Your Flutter App](https://quickcoder.org/choose-the-best-data-storage-solution-for-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=choose-the-best-data-storage-solution-for-your-flutter-app)
-- [How To Send Push Notifications With Firebase](https://quickcoder.org/flutter-push-notifications/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-push-notifications)
-- [How To Create Windows Apps With Flutter](https://quickcoder.org/flutter-win-demo/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-win-demo)
-- [How To Use Flutter Image Picker And Firebase Storage](https://quickcoder.org/how-to-use-flutter-image-picker-and-firebase-storage/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-flutter-image-picker-and-firebase-storage)
+- [How To Mock Dependencies In Your Flutter Tests](https://quickcoder.org/flutter-dependency-mocking/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-dependency-mocking)
+- [Boost Your Flutter App Performance With These 6 Tips](https://quickcoder.org/flutter-performance-tips/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-performance-tips)
+- [6 Easy Tips When Working With SetState In A Flutter Application](https://quickcoder.org/flutter-set-state/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-set-state)
+- [How To Use Behaviour-Driven Development with C# and SpecFlow](https://quickcoder.org/net-bdd/?utm_source=rss&utm_medium=rss&utm_campaign=net-bdd)
+- [How To Add A Google Map To Your Flutter App](https://quickcoder.org/flutter-google-map/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-google-map)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
