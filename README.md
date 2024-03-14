@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Created An Instagram Clone With Flutter And Firebase](https://levelup.gitconnected.com/how-i-created-an-instagram-clone-with-flutter-and-firebase-5160c83c28aa?source=rss-ae1e6291afc3------2)
 - [How To Use Flutter Image Picker And Firebase Storage](https://levelup.gitconnected.com/how-to-use-flutter-image-picker-and-firebase-storage-344c013f2f4f?source=rss-ae1e6291afc3------2)
 - [How To Make Rounded Profile Pictures In Flutter](https://levelup.gitconnected.com/how-to-make-rounded-profile-pictures-in-flutter-93821141e63a?source=rss-ae1e6291afc3------2)
 - [How To Prevent A Double Click On Buttons In Flutter Apps](https://levelup.gitconnected.com/how-to-prevent-a-double-click-on-buttons-in-flutter-apps-a835ec8048bf?source=rss-ae1e6291afc3------2)
 - [I Updated My Ebook The Flutter Firebase Compendium For 2024](https://medium.com/short-sweet-valuable/i-updated-my-ebook-the-flutter-firebase-compendium-for-2024-469081d5b806?source=rss-ae1e6291afc3------2)
-- [Monthly Update Cycle For The Advanced Gumroad Dashboard](https://xeladu.medium.com/monthly-update-cycle-for-the-advanced-gumroad-dashboard-ab9545069959?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
