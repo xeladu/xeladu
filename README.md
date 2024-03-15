@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Manage Your Windows Apps With Winget](https://quickcoder.org/winget-example/?utm_source=rss&utm_medium=rss&utm_campaign=winget-example)
+- [How To Customize Your Terminal Command Prompt](https://quickcoder.org/customize-windows-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=customize-windows-terminal)
 - [How I Created An Instagram Clone With Flutter And Firebase](https://quickcoder.org/how-i-created-an-instagram-clone-with-flutter-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=how-i-created-an-instagram-clone-with-flutter-and-firebase)
 - [How To Mock Dependencies In Your Flutter Tests](https://quickcoder.org/flutter-dependency-mocking/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-dependency-mocking)
 - [Boost Your Flutter App Performance With These 6 Tips](https://quickcoder.org/flutter-performance-tips/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-performance-tips)
-- [6 Easy Tips When Working With SetState In A Flutter Application](https://quickcoder.org/flutter-set-state/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-set-state)
-- [How To Use Behaviour-Driven Development with C# and SpecFlow](https://quickcoder.org/net-bdd/?utm_source=rss&utm_medium=rss&utm_campaign=net-bdd)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
