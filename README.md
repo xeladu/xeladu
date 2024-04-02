@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [A Quick Introduction To Different Dart Constructors](https://quickcoder.org/a-quick-introduction-to-different-dart-constructors/?utm_source=rss&utm_medium=rss&utm_campaign=a-quick-introduction-to-different-dart-constructors)
 - [How To Manage Your Windows Apps With Winget](https://quickcoder.org/winget-example/?utm_source=rss&utm_medium=rss&utm_campaign=winget-example)
 - [How To Customize Your Terminal Command Prompt](https://quickcoder.org/customize-windows-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=customize-windows-terminal)
 - [How I Created An Instagram Clone With Flutter And Firebase](https://quickcoder.org/how-i-created-an-instagram-clone-with-flutter-and-firebase/?utm_source=rss&utm_medium=rss&utm_campaign=how-i-created-an-instagram-clone-with-flutter-and-firebase)
 - [How To Mock Dependencies In Your Flutter Tests](https://quickcoder.org/flutter-dependency-mocking/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-dependency-mocking)
-- [Boost Your Flutter App Performance With These 6 Tips](https://quickcoder.org/flutter-performance-tips/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-performance-tips)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
