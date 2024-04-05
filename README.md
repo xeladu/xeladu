@@ -34,7 +34,9 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 - I have published numerous ebooks about [Firebase](https://xeladu.gumroad.com/?tags=firebase)
 - My [Medium publication FirebaseNinja](https://medium.com/firebase-ninja) hosts news and tutorials about Firebase
-- I run a free [monthly Medium newsletter](https://newsletter.quickcoder.org) with abstracts of my published content, news, freebies, and discounts on my products
+- I offer multiple free [newsletters](https://newsletters.quickcoder.org)
+  - My newsletter [QuickCoder Flutter Tips](https://newsletters.quickcoder.org#flutter) bring you one useful Flutter tip every day
+  - I run a [monthly Medium newsletter](https://newsletters.quickcoder.org#medium) with abstracts of my published content, news, freebies, and discounts on my products
 - I offer multiple free [email courses](https://courses.quickcoder.org)
   - The [Flutter Starter Course](https://courses.quickcoder.org#flutterstarter) to learn Flutter for beginners
   - The [Flutter App Development Course](https://courses.quickcoder.org#flutterappdev) introducing advanced concepts for Flutter developers
