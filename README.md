@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Gumroad Dashboard April Update Published!](https://xeladu.medium.com/advanced-gumroad-dashboard-april-update-published-0e928526aa4a?source=rss-ae1e6291afc3------2)
 - [How A WordPress Plugin Broke My Automated Flutter Newsletter](https://levelup.gitconnected.com/how-a-wordpress-plugin-broke-my-automated-flutter-newsletter-c9a41abb5acb?source=rss-ae1e6291afc3------2)
 - [The Struggle With Flutter Packages In Private GitHub Repositories](https://medium.com/long-sweet-valuable/the-struggle-with-flutter-packages-in-private-github-repositories-50e53852e4aa?source=rss-ae1e6291afc3------2)
 - [Gumroad Day 2024 Was A Success!](https://medium.com/short-sweet-valuable/gumroad-day-2024-was-a-success-b92ac2bfa22b?source=rss-ae1e6291afc3------2)
 - [Looking For A Flutter Tutorial Collection? Try This One!](https://medium.com/the-shortform/looking-for-a-flutter-tutorial-collection-try-this-one-606c85e8e8c6?source=rss-ae1e6291afc3------2)
-- [A Quick Introduction To Different Dart Constructors](https://levelup.gitconnected.com/a-quick-introduction-to-different-dart-constructors-733f764b95b0?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
