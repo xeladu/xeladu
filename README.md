@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Backup Your Cloud Firestore Database](https://quickcoder.org/how-to-backup-your-cloud-firestore-database/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-backup-your-cloud-firestore-database)
 - [A Quick Introduction To Different Dart Constructors](https://quickcoder.org/a-quick-introduction-to-different-dart-constructors/?utm_source=rss&utm_medium=rss&utm_campaign=a-quick-introduction-to-different-dart-constructors)
 - [How To Use Firebase Cloud Firestore With A Flutter App](https://quickcoder.org/firebase-firestore/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-firestore)
 - [Quick Prototyping With Flutter And A REST API](https://quickcoder.org/flutter-quick-prototyping/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-quick-prototyping)
 - [How To Make HTTP Requests With Flutter And Parse JSON Result Data](https://quickcoder.org/flutter-http-requests/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-http-requests)
-- [How To Manage Your Windows Apps With Winget](https://quickcoder.org/winget-example/?utm_source=rss&utm_medium=rss&utm_campaign=winget-example)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
