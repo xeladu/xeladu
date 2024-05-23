@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Talked To A Google Developer Expert About Flutter](https://levelup.gitconnected.com/i-talked-to-a-google-developer-expert-about-flutter-21743f00a06f?source=rss-ae1e6291afc3------2)
 - [My Daily Flutter Newsletter Is Now One Month Old!](https://medium.com/short-sweet-valuable/my-daily-flutter-newsletter-is-now-one-month-old-9c560177f141?source=rss-ae1e6291afc3------2)
 - [Some Thoughts On Firestore Backup And Restore](https://medium.com/firebase-ninja/some-thoughts-on-firestore-backup-and-restore-325816b2ce2a?source=rss-ae1e6291afc3------2)
 - [How To Manage A Flutter Monorepo With Multiple Packages](https://levelup.gitconnected.com/how-to-manage-a-flutter-monorepo-with-multiple-packages-2fadf0d8d134?source=rss-ae1e6291afc3------2)
 - [Tech Support On Mondays Is Hard!](https://medium.com/the-shortform/tech-support-on-mondays-is-hard-9edd47fe8c29?source=rss-ae1e6291afc3------2)
-- [How To Backup Your Cloud Firestore Database](https://medium.com/firebase-ninja/how-to-backup-your-cloud-firestore-database-f788ff014909?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
