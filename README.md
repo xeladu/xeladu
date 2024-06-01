@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Use Riverpod In Flutter Apps – A Practical Approach](https://quickcoder.org/how-to-use-riverpod-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-riverpod-in-flutter-apps)
 - [How To Manage A Flutter Monorepo With Multiple Packages](https://quickcoder.org/how-to-manage-a-flutter-monorepo-with-multiple-packages/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-manage-a-flutter-monorepo-with-multiple-packages)
 - [How To Backup Your Cloud Firestore Database](https://quickcoder.org/how-to-backup-your-cloud-firestore-database/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-backup-your-cloud-firestore-database)
 - [A Quick Introduction To Different Dart Constructors](https://quickcoder.org/a-quick-introduction-to-different-dart-constructors/?utm_source=rss&utm_medium=rss&utm_campaign=a-quick-introduction-to-different-dart-constructors)
 - [How To Use Firebase Cloud Firestore With A Flutter App](https://quickcoder.org/firebase-firestore/?utm_source=rss&utm_medium=rss&utm_campaign=firebase-firestore)
-- [Quick Prototyping With Flutter And A REST API](https://quickcoder.org/flutter-quick-prototyping/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-quick-prototyping)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
