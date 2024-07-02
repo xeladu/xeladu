@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Add Password Manager Support To Your Flutter Apps](https://levelup.gitconnected.com/how-to-add-password-manager-support-to-your-flutter-apps-2412685145da?source=rss-ae1e6291afc3------2)
 - [How I Improved My WordPress Blog User Experience With These 3 Changes](https://levelup.gitconnected.com/how-i-improved-my-wordpress-blog-user-experience-with-these-3-changes-7fe6830b36fa?source=rss-ae1e6291afc3------2)
 - [How To Track Your Location In A Flutter App](https://levelup.gitconnected.com/how-to-track-your-location-in-a-flutter-app-51c55f4b2590?source=rss-ae1e6291afc3------2)
 - [When Automation Stops Your Business](https://long.sweet.pub/when-automation-stops-your-business-3fbd5de27eb7?source=rss-ae1e6291afc3------2)
 - [How To Use Riverpod In Flutter Apps — A Practical Approach](https://levelup.gitconnected.com/how-to-use-riverpod-in-flutter-apps-a-practical-approach-33f8837f3205?source=rss-ae1e6291afc3------2)
-- [I Talked To A Google Developer Expert About Flutter](https://levelup.gitconnected.com/i-talked-to-a-google-developer-expert-about-flutter-21743f00a06f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
