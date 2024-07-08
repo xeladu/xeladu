@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How You Can Find Out If Two Flutter Objects Are Equal Or Not](https://quickcoder.org/how-you-can-find-out-if-two-flutter-objects-are-equal-or-not/?utm_source=rss&utm_medium=rss&utm_campaign=how-you-can-find-out-if-two-flutter-objects-are-equal-or-not)
 - [How To Add Password Manager Support To Your Flutter Apps](https://quickcoder.org/how-to-add-password-manager-support-to-your-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-add-password-manager-support-to-your-flutter-apps)
 - [How To Track Your Location In A Flutter App](https://quickcoder.org/how-to-track-your-location-in-a-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-track-your-location-in-a-flutter-app)
 - [How To Use Riverpod In Flutter Apps – A Practical Approach](https://quickcoder.org/how-to-use-riverpod-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-riverpod-in-flutter-apps)
 - [How To Manage A Flutter Monorepo With Multiple Packages](https://quickcoder.org/how-to-manage-a-flutter-monorepo-with-multiple-packages/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-manage-a-flutter-monorepo-with-multiple-packages)
-- [How To Backup Your Cloud Firestore Database](https://quickcoder.org/how-to-backup-your-cloud-firestore-database/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-backup-your-cloud-firestore-database)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
