@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Set Up A Free Repository For Your Flutter Packages](https://levelup.gitconnected.com/how-to-set-up-a-free-repository-for-your-flutter-packages-d956613b0680?source=rss-ae1e6291afc3------2)
 - [How You Can Find Out If Two Flutter Objects Are Equal Or Not](https://levelup.gitconnected.com/how-you-can-find-out-if-two-flutter-objects-are-equal-or-not-6271c62a2807?source=rss-ae1e6291afc3------2)
 - [How To Add Password Manager Support To Your Flutter Apps](https://levelup.gitconnected.com/how-to-add-password-manager-support-to-your-flutter-apps-2412685145da?source=rss-ae1e6291afc3------2)
 - [How I Improved My WordPress Blog User Experience With These 3 Changes](https://levelup.gitconnected.com/how-i-improved-my-wordpress-blog-user-experience-with-these-3-changes-7fe6830b36fa?source=rss-ae1e6291afc3------2)
 - [How To Track Your Location In A Flutter App](https://levelup.gitconnected.com/how-to-track-your-location-in-a-flutter-app-51c55f4b2590?source=rss-ae1e6291afc3------2)
-- [When Automation Stops Your Business](https://long.sweet.pub/when-automation-stops-your-business-3fbd5de27eb7?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
