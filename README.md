@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When Developers Are 10x More Productive With AI…](https://xeladu.medium.com/when-developers-are-10x-more-productive-with-ai-b232ee2fb946?source=rss-ae1e6291afc3------2)
 - [JetBrains Shut Down Space Exactly When I Started Using It](https://levelup.gitconnected.com/jetbrains-shut-down-space-exactly-when-i-started-using-it-30136863542c?source=rss-ae1e6291afc3------2)
 - [How To Set Up A Free Repository For Your Flutter Packages](https://levelup.gitconnected.com/how-to-set-up-a-free-repository-for-your-flutter-packages-d956613b0680?source=rss-ae1e6291afc3------2)
 - [How You Can Find Out If Two Flutter Objects Are Equal Or Not](https://levelup.gitconnected.com/how-you-can-find-out-if-two-flutter-objects-are-equal-or-not-6271c62a2807?source=rss-ae1e6291afc3------2)
 - [How To Add Password Manager Support To Your Flutter Apps](https://levelup.gitconnected.com/how-to-add-password-manager-support-to-your-flutter-apps-2412685145da?source=rss-ae1e6291afc3------2)
-- [How I Improved My WordPress Blog User Experience With These 3 Changes](https://levelup.gitconnected.com/how-i-improved-my-wordpress-blog-user-experience-with-these-3-changes-7fe6830b36fa?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
