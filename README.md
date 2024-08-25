@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Monitor Your Mobile Apps With Firebase Crashlytics](https://levelup.gitconnected.com/how-to-monitor-your-mobile-apps-with-firebase-crashlytics-1211531a2294?source=rss-ae1e6291afc3------2)
 - [What To Expect When Becoming A Lead Engineer](https://xeladu.medium.com/what-to-expect-when-becoming-a-lead-engineer-0f69cc024d7f?source=rss-ae1e6291afc3------2)
 - [I Just Published A New Book For Firebase Developers!](https://medium.com/firebase-ninja/i-just-published-a-new-book-for-firebase-developers-bfe2e1b50eca?source=rss-ae1e6291afc3------2)
 - [When Developers Are 10x More Productive With AI…](https://xeladu.medium.com/when-developers-are-10x-more-productive-with-ai-b232ee2fb946?source=rss-ae1e6291afc3------2)
 - [JetBrains Shut Down Space Exactly When I Started Using It](https://levelup.gitconnected.com/jetbrains-shut-down-space-exactly-when-i-started-using-it-30136863542c?source=rss-ae1e6291afc3------2)
-- [How To Set Up A Free Repository For Your Flutter Packages](https://levelup.gitconnected.com/how-to-set-up-a-free-repository-for-your-flutter-packages-d956613b0680?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
