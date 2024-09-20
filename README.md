@@ -18,7 +18,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - [Join The Upcoming .NET MAUI Day In Cologne!](https://xeladu.medium.com/join-the-upcoming-net-maui-day-in-cologne-9098ed2dd87b?source=rss-ae1e6291afc3------2)
 - [How To Monitor Your Mobile Apps With Firebase Crashlytics](https://levelup.gitconnected.com/how-to-monitor-your-mobile-apps-with-firebase-crashlytics-1211531a2294?source=rss-ae1e6291afc3------2)
 - [What To Expect When Becoming A Lead Engineer](https://xeladu.medium.com/what-to-expect-when-becoming-a-lead-engineer-0f69cc024d7f?source=rss-ae1e6291afc3------2)
-- [I Just Published A New Book For Firebase Developers!](https://medium.com/firebase-ninja/i-just-published-a-new-book-for-firebase-developers-bfe2e1b50eca?source=rss-ae1e6291afc3------2)
+- [I Just Published A New Book For Firebase Developers!](https://xeladu.medium.com/i-just-published-a-new-book-for-firebase-developers-bfe2e1b50eca?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
