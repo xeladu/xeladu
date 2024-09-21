@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Use The Flutter Badge Widget](https://quickcoder.org/how-to-use-the-flutter-badge-widget/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-the-flutter-badge-widget)
 - [How To Prevent A Double Click On Buttons In Flutter Apps](https://quickcoder.org/how-to-prevent-a-double-click-on-buttons-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-a-double-click-on-buttons-in-flutter-apps)
 - [How To Make Rounded Profile Pictures In Flutter](https://quickcoder.org/how-to-make-rounded-profile-pictures-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-rounded-profile-pictures-in-flutter)
 - [How To Monitor Your Mobile Apps With Firebase Crashlytics](https://quickcoder.org/how-to-monitor-your-mobile-apps-with-firebase-crashlytics/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-monitor-your-mobile-apps-with-firebase-crashlytics)
 - [How To Set Up A Free Repository For Your Flutter Packages](https://quickcoder.org/how-to-set-up-a-free-repository-for-your-flutter-packages/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-set-up-a-free-repository-for-your-flutter-packages)
-- [How You Can Find Out If Two Flutter Objects Are Equal Or Not](https://quickcoder.org/how-you-can-find-out-if-two-flutter-objects-are-equal-or-not/?utm_source=rss&utm_medium=rss&utm_campaign=how-you-can-find-out-if-two-flutter-objects-are-equal-or-not)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
