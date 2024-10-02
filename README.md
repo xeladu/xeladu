@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming Changes For Firebase Cloud Storage — Check Your Project Settings!](https://xeladu.medium.com/upcoming-changes-for-firebase-cloud-storage-check-your-project-settings-086870671916?source=rss-ae1e6291afc3------2)
 - [How To Create Notifiers With The Riverpod Generator In Flutter](https://levelup.gitconnected.com/how-to-create-notifiers-with-the-riverpod-generator-in-flutter-ee117e39e5ea?source=rss-ae1e6291afc3------2)
 - [How To Use The Flutter Badge Widget](https://levelup.gitconnected.com/how-to-use-the-flutter-badge-widget-11393055b53d?source=rss-ae1e6291afc3------2)
 - [How I Tricked A Web Tool With JavaScript To Save Time](https://levelup.gitconnected.com/how-i-tricked-a-web-tool-with-javascript-to-save-time-c8557cc27f01?source=rss-ae1e6291afc3------2)
 - [Join The Upcoming .NET MAUI Day In Cologne!](https://xeladu.medium.com/join-the-upcoming-net-maui-day-in-cologne-9098ed2dd87b?source=rss-ae1e6291afc3------2)
-- [How To Monitor Your Mobile Apps With Firebase Crashlytics](https://levelup.gitconnected.com/how-to-monitor-your-mobile-apps-with-firebase-crashlytics-1211531a2294?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
