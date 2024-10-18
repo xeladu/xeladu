@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Implement Double Opt-In With Firebase and Flutter](https://quickcoder.org/how-to-implement-double-opt-in-with-firebase-and-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-double-opt-in-with-firebase-and-flutter)
 - [How To Create Notifiers With The Riverpod Generator In Flutter](https://quickcoder.org/how-to-create-notifiers-with-the-riverpod-generator-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-notifiers-with-the-riverpod-generator-in-flutter)
 - [How To Use The Flutter Badge Widget](https://quickcoder.org/how-to-use-the-flutter-badge-widget/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-the-flutter-badge-widget)
 - [How To Make Rounded Profile Pictures In Flutter](https://quickcoder.org/how-to-make-rounded-profile-pictures-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-rounded-profile-pictures-in-flutter)
 - [How To Prevent A Double Click On Buttons In Flutter Apps](https://quickcoder.org/how-to-prevent-a-double-click-on-buttons-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-prevent-a-double-click-on-buttons-in-flutter-apps)
-- [How To Monitor Your Mobile Apps With Firebase Crashlytics](https://quickcoder.org/how-to-monitor-your-mobile-apps-with-firebase-crashlytics/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-monitor-your-mobile-apps-with-firebase-crashlytics)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
