@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Backend with Firebase Cloud Functions](https://xeladu.medium.com/automate-your-backend-with-firebase-cloud-functions-0e47720e84e7?source=rss-ae1e6291afc3------2)
 - [Why Eliminating NULLs From Your Code Will Not Make Your App Better](https://levelup.gitconnected.com/why-eliminating-nulls-from-your-code-will-not-make-your-app-better-f64082f9a162?source=rss-ae1e6291afc3------2)
 - [Simplify User Authentication in Flutter with Firebase](https://xeladu.medium.com/simplify-user-authentication-in-flutter-with-firebase-2f8d570e814f?source=rss-ae1e6291afc3------2)
 - [Store Your Data in the Cloud with Firebase Firestore](https://xeladu.medium.com/store-your-data-in-the-cloud-with-firebase-firestore-beeb6febe010?source=rss-ae1e6291afc3------2)
 - [How To Get Started With Firebase In Flutter](https://xeladu.medium.com/how-to-get-started-with-firebase-in-flutter-2b057624f2e3?source=rss-ae1e6291afc3------2)
-- [Upcoming Changes For Firebase Cloud Storage — Check Your Project Settings!](https://xeladu.medium.com/upcoming-changes-for-firebase-cloud-storage-check-your-project-settings-086870671916?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
