@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Get JetBrains Rider and WebStorm For Free!](https://levelup.gitconnected.com/get-jetbrains-rider-and-webstorm-for-free-bca1bb3d4b55?source=rss-ae1e6291afc3------2)
 - [How To Organize Your Widgets In Flutter Apps](https://levelup.gitconnected.com/how-to-organize-your-widgets-in-flutter-apps-45c7b2fa3975?source=rss-ae1e6291afc3------2)
 - [Why A Mac Mini As Self-Hosted Build Agent Makes Sense](https://xeladu.medium.com/why-a-mac-mini-as-self-hosted-build-agent-makes-sense-f2f5bd0e0dfb?source=rss-ae1e6291afc3------2)
 - [Handle Large Files with Firebase Storage](https://xeladu.medium.com/handle-large-files-with-firebase-storage-f2bf6d5316b8?source=rss-ae1e6291afc3------2)
 - [How To Implement Double Opt-In With Firebase And Flutter](https://levelup.gitconnected.com/how-to-implement-double-opt-in-with-firebase-and-flutter-871bac09cd97?source=rss-ae1e6291afc3------2)
-- [Automate Your Backend with Firebase Cloud Functions](https://xeladu.medium.com/automate-your-backend-with-firebase-cloud-functions-0e47720e84e7?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
