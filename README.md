@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [A Short Excursion Into The Pitfalls Of Flutter Widget Testing](https://quickcoder.org/a-short-excursion-into-the-pitfalls-of-flutter-widget-testing/?utm_source=rss&utm_medium=rss&utm_campaign=a-short-excursion-into-the-pitfalls-of-flutter-widget-testing)
 - [My Personal Summary Of .NET Conf 2024](https://quickcoder.org/my-personal-summary-of-net-conf-2024/?utm_source=rss&utm_medium=rss&utm_campaign=my-personal-summary-of-net-conf-2024)
 - [How To Organize Your Widgets In Flutter Apps](https://quickcoder.org/how-to-organize-your-widgets-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-organize-your-widgets-in-flutter-apps)
 - [How To Implement Double Opt-In With Firebase and Flutter](https://quickcoder.org/how-to-implement-double-opt-in-with-firebase-and-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-double-opt-in-with-firebase-and-flutter)
 - [How To Create Notifiers With The Riverpod Generator In Flutter](https://quickcoder.org/how-to-create-notifiers-with-the-riverpod-generator-in-flutter/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-notifiers-with-the-riverpod-generator-in-flutter)
-- [How To Use The Flutter Badge Widget](https://quickcoder.org/how-to-use-the-flutter-badge-widget/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-the-flutter-badge-widget)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
