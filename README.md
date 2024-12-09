@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Short Excursion Into The Pitfalls Of Flutter Widget Testing](https://levelup.gitconnected.com/a-short-excursion-into-the-pitfalls-of-flutter-widget-testing-2fe5e32f4ab5?source=rss-ae1e6291afc3------2)
 - [My Personal Summary Of .NET Conf 2024](https://levelup.gitconnected.com/my-personal-summary-of-net-conf-2024-87d55373cf9c?source=rss-ae1e6291afc3------2)
 - [People Keep Stealing My Content…](https://xeladu.medium.com/people-keep-stealing-my-content-b84570e56930?source=rss-ae1e6291afc3------2)
 - [Get JetBrains Rider and WebStorm For Free!](https://levelup.gitconnected.com/get-jetbrains-rider-and-webstorm-for-free-bca1bb3d4b55?source=rss-ae1e6291afc3------2)
 - [How To Organize Your Widgets In Flutter Apps](https://levelup.gitconnected.com/how-to-organize-your-widgets-in-flutter-apps-45c7b2fa3975?source=rss-ae1e6291afc3------2)
-- [Why A Mac Mini As Self-Hosted Build Agent Makes Sense](https://xeladu.medium.com/why-a-mac-mini-as-self-hosted-build-agent-makes-sense-f2f5bd0e0dfb?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
