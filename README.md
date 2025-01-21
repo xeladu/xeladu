@@ -39,7 +39,7 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - Check out my web apps
   - [GDash](https://quickcoder.org/gdash) - An analytics tool for Gumroad sellers 
   - [Foklarity](https://foklarity.quickcoder.org) - A pomodoro time tracking app
-  - [Blog Search](https://search.quickcoder.org) - A powerful search function for my [Quickcoder](https://quickcoder.org] blog
+  - [Blog Search](https://search.quickcoder.org) - A powerful search function for my [Quickcoder](https://quickcoder.org) blog
 
 ### My preferred tools and frameworks
  <p>
