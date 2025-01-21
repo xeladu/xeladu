@@ -36,10 +36,10 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 - I offer multiple free [newsletters](https://newsletters.quickcoder.org)
   - My newsletter [QuickCoder Flutter Tips](https://newsletters.quickcoder.org#flutter) bring you one useful Flutter tip every day
   - I run a [monthly Medium newsletter](https://newsletters.quickcoder.org#medium) with abstracts of my published content, news, freebies, and discounts on my products
-- I offer multiple free [email courses](https://courses.quickcoder.org)
-  - The [Flutter Starter Course](https://courses.quickcoder.org#flutterstarter) to learn Flutter for beginners
-  - The [Flutter App Development Course](https://courses.quickcoder.org#flutterappdev) introducing advanced concepts for Flutter developers
-  - The [Firebase Introduction Course](https://courses.quickcoder.org#firebaseintroduction) to get a quick overview about several Firebase services
+- Check out my web apps
+  - [GDash](https://quickcoder.org/gdash) - An analytics tool for Gumroad sellers 
+  - [Foklarity](https://foklarity.quickcoder.org) - A pomodoro time tracking app
+  - [Blog Search](https://search.quickcoder.org] - A powerful search function for my [Quickcoder](https://quickcoder.org] blog
 
 ### My preferred tools and frameworks
  <p>
