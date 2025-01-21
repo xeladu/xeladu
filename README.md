@@ -32,9 +32,9 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Other contributions
 
-- I have published numerous ebooks about [Firebase](https://xeladu.gumroad.com/?tags=firebase)
-- I offer multiple free [newsletters](https://newsletters.quickcoder.org)
-  - My newsletter [QuickCoder Flutter Tips](https://newsletters.quickcoder.org#flutter) bring you one useful Flutter tip every day
+- The [Flutter Firebase Compendium](https://flutter-firebase.quickcoder.org) teaches you how to build Flutter apps with a Firebase backend
+- I offer multiple free newsletters
+  - My newsletter [QuickCoder Flutter Tips](https://newsletters.quickcoder.org#flutter) brings you useful Flutter tips two times a week
   - I run a [monthly Medium newsletter](https://newsletters.quickcoder.org#medium) with abstracts of my published content, news, freebies, and discounts on my products
 - Check out my web apps
   - [GDash](https://quickcoder.org/gdash) - An analytics tool for Gumroad sellers 
