@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Don’t Use .NET MAUI Anymore](https://xeladu.medium.com/why-i-dont-use-net-maui-anymore-cb542bdbf6f5?source=rss-ae1e6291afc3------2)
 - [Why Cody Free Is A Great AI Coding Assistant](https://levelup.gitconnected.com/why-cody-free-is-a-great-ai-coding-assistant-95be802e30d4?source=rss-ae1e6291afc3------2)
 - [7 Ways To Create Copies Of Immutable Objects In C#](https://levelup.gitconnected.com/7-ways-to-create-copies-of-immutable-objects-in-c-e678c9d11681?source=rss-ae1e6291afc3------2)
 - [I Redesigned My Gumroad Dashboard App And Made It Free For Everyone!](https://xeladu.medium.com/i-redesigned-my-gumroad-dashboard-app-and-made-it-free-for-everyone-0787556c8448?source=rss-ae1e6291afc3------2)
 - [5 Cool New Things in Flutter 3.27](https://xeladu.medium.com/5-cool-new-things-in-flutter-3-27-1acd872183d9?source=rss-ae1e6291afc3------2)
-- [A Short Excursion Into The Pitfalls Of Flutter Widget Testing](https://levelup.gitconnected.com/a-short-excursion-into-the-pitfalls-of-flutter-widget-testing-2fe5e32f4ab5?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
