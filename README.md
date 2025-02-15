@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Debug Firebase Analytics Events From A Flutter Web App](https://quickcoder.org/how-to-debug-firebase-analytics-events-from-a-flutter-web-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-debug-firebase-analytics-events-from-a-flutter-web-app)
 - [Microsoft Finally Improved Its Designer And I Like It](https://quickcoder.org/microsoft-finally-improved-its-designer-and-i-like-it/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-finally-improved-its-designer-and-i-like-it)
 - [Why Cody Free Is A Great AI Coding Assistant](https://quickcoder.org/why-cody-is-a-great-ai-coding-assistant/?utm_source=rss&utm_medium=rss&utm_campaign=why-cody-is-a-great-ai-coding-assistant)
 - [7 Ways To Create Copies Of Immutable Objects In C#](https://quickcoder.org/7-ways-to-create-copies-of-immutable-objects-in-csharp/?utm_source=rss&utm_medium=rss&utm_campaign=7-ways-to-create-copies-of-immutable-objects-in-csharp)
 - [A Short Excursion Into The Pitfalls Of Flutter Widget Testing](https://quickcoder.org/a-short-excursion-into-the-pitfalls-of-flutter-widget-testing/?utm_source=rss&utm_medium=rss&utm_campaign=a-short-excursion-into-the-pitfalls-of-flutter-widget-testing)
-- [My Personal Summary Of .NET Conf 2024](https://quickcoder.org/my-personal-summary-of-net-conf-2024/?utm_source=rss&utm_medium=rss&utm_campaign=my-personal-summary-of-net-conf-2024)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
