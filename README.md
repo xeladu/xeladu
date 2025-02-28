@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Download Files With The web Package In Flutter Apps](https://levelup.gitconnected.com/how-to-download-files-with-the-web-package-in-flutter-apps-2f678a2c2d54?source=rss-ae1e6291afc3------2)
 - [How To Use The Firebase Analytics Debug View With A Flutter Web App](https://levelup.gitconnected.com/how-to-use-the-firebase-analytics-debug-view-with-a-flutter-web-app-826795990331?source=rss-ae1e6291afc3------2)
 - [Microsoft Finally Improved Its Designer And I Like It](https://levelup.gitconnected.com/microsoft-finally-improved-its-designer-and-i-like-it-98b679c577a3?source=rss-ae1e6291afc3------2)
 - [5 Reasons Not To Use Firebase](https://levelup.gitconnected.com/5-reasons-not-to-use-firebase-c0278c772df7?source=rss-ae1e6291afc3------2)
 - [Why I Don’t Use .NET MAUI Anymore](https://xeladu.medium.com/why-i-dont-use-net-maui-anymore-cb542bdbf6f5?source=rss-ae1e6291afc3------2)
-- [Why Cody Free Is A Great AI Coding Assistant](https://levelup.gitconnected.com/why-cody-free-is-a-great-ai-coding-assistant-95be802e30d4?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
