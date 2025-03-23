@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [Improve Your WordPress Page Speed With Compression And Better Image Formats](https://quickcoder.org/improve-your-wordpress-page-speed/?utm_source=rss&utm_medium=rss&utm_campaign=improve-your-wordpress-page-speed)
 - [6 Privacy Tips To Protect Your Online Life](https://quickcoder.org/six-privacy-tips-to-protect-your-online-life/?utm_source=rss&utm_medium=rss&utm_campaign=six-privacy-tips-to-protect-your-online-life)
 - [How To Write A Proper Dart Data Model &lpar;AI Prompt Included&rpar;](https://quickcoder.org/how-to-write-a-proper-dart-data-model/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-write-a-proper-dart-data-model)
 - [How To Download Files With The web Package In Flutter Apps](https://quickcoder.org/how-to-download-files-with-the-web-package-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-download-files-with-the-web-package-in-flutter-apps)
 - [How To Debug Firebase Analytics Events From A Flutter Web App](https://quickcoder.org/how-to-debug-firebase-analytics-events-from-a-flutter-web-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-debug-firebase-analytics-events-from-a-flutter-web-app)
-- [Microsoft Finally Improved Its Designer And I Like It](https://quickcoder.org/microsoft-finally-improved-its-designer-and-i-like-it/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-finally-improved-its-designer-and-i-like-it)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
