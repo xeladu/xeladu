@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Have Been Selling Products On Gumroad For 1000 Days!](https://xeladu.medium.com/i-have-been-selling-products-on-gumroad-for-1000-days-07d855cd2222?source=rss-ae1e6291afc3------2)
 - [Improve Your WordPress Page Speed With Compression And Better Image Formats](https://levelup.gitconnected.com/improve-your-wordpress-page-speed-with-compression-and-better-image-formats-28ba00532f24?source=rss-ae1e6291afc3------2)
 - [How To Write A Proper Dart Data Model &lpar;AI Prompt Included&rpar;](https://levelup.gitconnected.com/how-to-write-a-proper-dart-data-model-ai-prompt-included-1e2a561bad93?source=rss-ae1e6291afc3------2)
 - [Skype Will Soon Disappear And Really Nobody Cares](https://xeladu.medium.com/skype-will-soon-disappear-and-really-nobody-cares-6e9c654a0a99?source=rss-ae1e6291afc3------2)
 - [How To Download Files With The web Package In Flutter Apps](https://levelup.gitconnected.com/how-to-download-files-with-the-web-package-in-flutter-apps-2f678a2c2d54?source=rss-ae1e6291afc3------2)
-- [How To Use The Firebase Analytics Debug View With A Flutter Web App](https://levelup.gitconnected.com/how-to-use-the-firebase-analytics-debug-view-with-a-flutter-web-app-826795990331?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
