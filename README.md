@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Cut A Design Mockup Into Flutter Widgets](https://quickcoder.org/how-to-cut-a-design-mockup-into-flutter-widgets/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-cut-a-design-mockup-into-flutter-widgets)
 - [Why AbsorbPointers Are Dangerous In Flutter Widget Tests](https://quickcoder.org/why-absorbpointers-are-dangerous-in-flutter-widget-tests/?utm_source=rss&utm_medium=rss&utm_campaign=why-absorbpointers-are-dangerous-in-flutter-widget-tests)
 - [Improve Your WordPress Page Speed With Compression And Better Image Formats](https://quickcoder.org/improve-your-wordpress-page-speed/?utm_source=rss&utm_medium=rss&utm_campaign=improve-your-wordpress-page-speed)
 - [6 Privacy Tips To Protect Your Online Life](https://quickcoder.org/six-privacy-tips-to-protect-your-online-life/?utm_source=rss&utm_medium=rss&utm_campaign=six-privacy-tips-to-protect-your-online-life)
 - [How To Write A Proper Dart Data Model &lpar;AI Prompt Included&rpar;](https://quickcoder.org/how-to-write-a-proper-dart-data-model/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-write-a-proper-dart-data-model)
-- [How To Download Files With The web Package In Flutter Apps](https://quickcoder.org/how-to-download-files-with-the-web-package-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-download-files-with-the-web-package-in-flutter-apps)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
