@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Notion](https://xeladu.medium.com/goodbye-notion-bd5c3598a45f?source=rss-ae1e6291afc3------2)
 - [How To Cut A Design Mockup Into Flutter Widgets](https://levelup.gitconnected.com/how-to-cut-a-design-mockup-into-flutter-widgets-afde928996f2?source=rss-ae1e6291afc3------2)
 - [Why AbsorbPointers Are Dangerous In Flutter Widget Tests](https://xeladu.medium.com/why-absorbpointers-are-dangerous-in-flutter-widget-tests-e1826038c5f8?source=rss-ae1e6291afc3------2)
 - [I Have Been Selling Products On Gumroad For 1000 Days!](https://xeladu.medium.com/i-have-been-selling-products-on-gumroad-for-1000-days-07d855cd2222?source=rss-ae1e6291afc3------2)
 - [Improve Your WordPress Page Speed With Compression And Better Image Formats](https://levelup.gitconnected.com/improve-your-wordpress-page-speed-with-compression-and-better-image-formats-28ba00532f24?source=rss-ae1e6291afc3------2)
-- [How To Write A Proper Dart Data Model &lpar;AI Prompt Included&rpar;](https://levelup.gitconnected.com/how-to-write-a-proper-dart-data-model-ai-prompt-included-1e2a561bad93?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
