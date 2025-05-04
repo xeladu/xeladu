@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Authentication with Firebase in Flutter Apps](https://xeladu.medium.com/github-authentication-with-firebase-in-flutter-apps-700a6db2d667?source=rss-ae1e6291afc3------2)
 - [Use Background Triggers in Firebase Cloud Functions](https://xeladu.medium.com/use-background-triggers-in-firebase-cloud-functions-75304d46f21d?source=rss-ae1e6291afc3------2)
 - [Add Custom Domains in Firebase Hosting](https://xeladu.medium.com/add-custom-domains-in-firebase-hosting-fbbcd8bbcea4?source=rss-ae1e6291afc3------2)
 - [Goodbye Notion](https://xeladu.medium.com/goodbye-notion-bd5c3598a45f?source=rss-ae1e6291afc3------2)
 - [How To Cut A Design Mockup Into Flutter Widgets](https://levelup.gitconnected.com/how-to-cut-a-design-mockup-into-flutter-widgets-afde928996f2?source=rss-ae1e6291afc3------2)
-- [Why AbsorbPointers Are Dangerous In Flutter Widget Tests](https://xeladu.medium.com/why-absorbpointers-are-dangerous-in-flutter-widget-tests-e1826038c5f8?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
