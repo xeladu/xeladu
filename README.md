@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Am Trapped In The Microsoft Ecosystem — Here Is My Way Out](https://long.sweet.pub/i-am-trapped-in-the-microsoft-ecosystem-here-is-my-way-out-3377a01af087?source=rss-ae1e6291afc3------2)
 - [Firebase Cloud Firestore Real-Time Listeners in Flutter Apps](https://xeladu.medium.com/firebase-cloud-firestore-real-time-listeners-in-flutter-apps-bc946d9491bf?source=rss-ae1e6291afc3------2)
 - [GitHub Authentication with Firebase in Flutter Apps](https://xeladu.medium.com/github-authentication-with-firebase-in-flutter-apps-700a6db2d667?source=rss-ae1e6291afc3------2)
 - [Use Background Triggers in Firebase Cloud Functions](https://xeladu.medium.com/use-background-triggers-in-firebase-cloud-functions-75304d46f21d?source=rss-ae1e6291afc3------2)
 - [Add Custom Domains in Firebase Hosting](https://xeladu.medium.com/add-custom-domains-in-firebase-hosting-fbbcd8bbcea4?source=rss-ae1e6291afc3------2)
-- [Goodbye Notion](https://xeladu.medium.com/goodbye-notion-bd5c3598a45f?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
