@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Show A Popup In Your Flutter App With Riverpod](https://quickcoder.org/how-to-show-a-popup-in-your-flutter-app-with-riverpod/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-show-a-popup-in-your-flutter-app-with-riverpod)
 - [Easy Confetti Animations In Flutter Apps](https://quickcoder.org/confetti-animations-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=confetti-animations-in-flutter-apps)
 - [How To Implement Account Management Methods With Firebase Authentication](https://quickcoder.org/how-to-implement-account-management-methods-with-firebase-authentication/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-implement-account-management-methods-with-firebase-authentication)
 - [How To Use BottomNavigationBar In Flutter Apps](https://quickcoder.org/how-to-use-bottomnavigationbar-in-flutter-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-bottomnavigationbar-in-flutter-apps)
 - [How To Cut A Design Mockup Into Flutter Widgets](https://quickcoder.org/how-to-cut-a-design-mockup-into-flutter-widgets/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-cut-a-design-mockup-into-flutter-widgets)
-- [Why AbsorbPointers Are Dangerous In Flutter Widget Tests](https://quickcoder.org/why-absorbpointers-are-dangerous-in-flutter-widget-tests/?utm_source=rss&utm_medium=rss&utm_campaign=why-absorbpointers-are-dangerous-in-flutter-widget-tests)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
