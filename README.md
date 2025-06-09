@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Enable Hot Reload For Flutter Web](https://levelup.gitconnected.com/how-to-enable-hot-reload-for-flutter-web-b2138adb8604?source=rss-ae1e6291afc3------2)
 - [How To Show A Popup In Your Flutter App With Riverpod](https://levelup.gitconnected.com/how-to-show-a-popup-in-your-flutter-app-with-riverpod-596913dfdf82?source=rss-ae1e6291afc3------2)
 - [How To Implement Account Management Methods With Firebase Authentication](https://levelup.gitconnected.com/how-to-implement-account-management-methods-with-firebase-authentication-2fa759bde8aa?source=rss-ae1e6291afc3------2)
 - [Easy Confetti Animations In Flutter Apps](https://xeladu.medium.com/easy-confetti-animations-in-flutter-apps-8ca6a6858283?source=rss-ae1e6291afc3------2)
 - [How To Use BottomNavigationBar In Flutter Apps](https://levelup.gitconnected.com/how-to-use-bottomnavigationbar-in-flutter-apps-57526d1a90c1?source=rss-ae1e6291afc3------2)
-- [I Am Trapped In The Microsoft Ecosystem — Here Is My Way Out](https://long.sweet.pub/i-am-trapped-in-the-microsoft-ecosystem-here-is-my-way-out-3377a01af087?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
