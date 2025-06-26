@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [4 Firebase Services That Are Always Free](https://quickcoder.org/4-firebase-services-that-are-always-free/?utm_source=rss&utm_medium=rss&utm_campaign=4-firebase-services-that-are-always-free)
 - [The Best Flutter UI Library Alternatives](https://quickcoder.org/best-flutter-ui-library-alternatives/?utm_source=rss&utm_medium=rss&utm_campaign=best-flutter-ui-library-alternatives)
 - [Exploring Firebase Studio — A New AI Cloud Code Editor](https://quickcoder.org/exploring-firebase-studio/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-firebase-studio)
 - [How To Enable Hot Reload For Flutter Web](https://quickcoder.org/how-to-enable-hot-reload-for-flutter-web/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-enable-hot-reload-for-flutter-web)
 - [How To Show A Popup In Your Flutter App With Riverpod](https://quickcoder.org/how-to-show-a-popup-in-your-flutter-app-with-riverpod/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-show-a-popup-in-your-flutter-app-with-riverpod)
-- [How To Do Widget Testing In Flutter Apps](https://quickcoder.org/flutter-widget-testing/?utm_source=rss&utm_medium=rss&utm_campaign=flutter-widget-testing)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
