@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Handle Tap Gestures In Widget Tests](https://quickcoder.org/how-to-handle-tap-gestures-in-widget-tests/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-handle-tap-gestures-in-widget-tests)
 - [How To Test Your Responsive Flutter App](https://quickcoder.org/how-to-test-your-responsive-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-test-your-responsive-flutter-app)
 - [The Best Way To Consume APIs In Your Apps!](https://quickcoder.org/the-best-way-to-consume-apis-in-your-apps/?utm_source=rss&utm_medium=rss&utm_campaign=the-best-way-to-consume-apis-in-your-apps)
 - [4 Firebase Services That Are Always Free](https://quickcoder.org/4-firebase-services-that-are-always-free/?utm_source=rss&utm_medium=rss&utm_campaign=4-firebase-services-that-are-always-free)
 - [The Best Flutter UI Library Alternatives](https://quickcoder.org/best-flutter-ui-library-alternatives/?utm_source=rss&utm_medium=rss&utm_campaign=best-flutter-ui-library-alternatives)
-- [Exploring Firebase Studio — A New AI Cloud Code Editor](https://quickcoder.org/exploring-firebase-studio/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-firebase-studio)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
