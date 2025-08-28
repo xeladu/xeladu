@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [No AI? No Party!](https://xeladu.medium.com/no-ai-no-party-adcaae562055?source=rss-ae1e6291afc3------2)
 - [How To Handle Tap Gestures In Widget Tests](https://levelup.gitconnected.com/how-to-handle-tap-gestures-in-widget-tests-54eb530e102e?source=rss-ae1e6291afc3------2)
 - [How To Test Your Responsive Flutter App](https://xeladu.medium.com/how-to-test-your-responsive-flutter-app-00be5439f6be?source=rss-ae1e6291afc3------2)
 - [A Great UI Is All Your App Needs](https://xeladu.medium.com/a-great-ui-is-all-your-app-needs-8c28c911589c?source=rss-ae1e6291afc3------2)
 - [The Best Way To Consume APIs In Your Apps!](https://levelup.gitconnected.com/the-best-way-to-consume-apis-in-your-apps-924b99b1439c?source=rss-ae1e6291afc3------2)
-- [4 Firebase Services That Are Always Free](https://levelup.gitconnected.com/4-firebase-services-that-are-always-free-bbf877a8d33a?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
