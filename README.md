@@ -33,10 +33,9 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 ### Other contributions
 
 - The [Flutter Firebase Compendium](https://flutter-firebase.quickcoder.org) teaches you how to build Flutter apps with a Firebase backend
-- I offer multiple free newsletters
-  - My newsletter [QuickCoder Flutter Tips](https://newsletters.quickcoder.org#flutter) brings you useful Flutter tips two times a week
-  - I run a [monthly Medium newsletter](https://newsletters.quickcoder.org#medium) with abstracts of my published content, news, freebies, and discounts on my products
-- Check out my web apps
+- The [Flutter Test Guide](https://flutter-firebase.quickcoder.org) makes you a proficient app tester
+- Check out my apps
+  - [OPM](https://opm.quickcoder.org/) - An open-source password manager tool for Android, iOS, and as a web app. Also includes browser extensions for Chrome, Edge, and Firefox.
   - [GDash](https://quickcoder.org/gdash) - An analytics tool for Gumroad sellers 
   - [Foklarity](https://foklarity.quickcoder.org) - A pomodoro time tracking app
   - [Blog Search](https://search.quickcoder.org) - A powerful search function for my [Quickcoder](https://quickcoder.org) blog
