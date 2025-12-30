@@ -51,4 +51,4 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   </p>
   
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeladu&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xeladu" /></p>
+  <!--<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xeladu&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="xeladu" /></p>-->
