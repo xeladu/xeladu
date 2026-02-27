@@ -14,11 +14,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### Medium blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Digital Independence Movement In Europe Gains Traction](https://xeladu.medium.com/the-digital-independence-movement-in-europe-gains-traction-4a036367afc4?source=rss-ae1e6291afc3------2)
 - [Hate The AI Slop In Windows? Here Is How To Disable It](https://xeladu.medium.com/hate-the-ai-slop-in-windows-here-is-how-to-disable-it-760f4c51273d?source=rss-ae1e6291afc3------2)
 - [Job Search Broke Me](https://xeladu.medium.com/job-search-broke-me-d7662a99b481?source=rss-ae1e6291afc3------2)
 - [I tried Appwrite, Supabase, and Firebase Databases](https://xeladu.medium.com/i-tried-appwrite-supabase-and-firebase-databases-ad696d8dd04c?source=rss-ae1e6291afc3------2)
 - [How To Use Google Fonts In Your Flutter App](https://levelup.gitconnected.com/how-to-use-google-fonts-in-your-flutter-app-1f835c66ed39?source=rss-ae1e6291afc3------2)
-- [No AI? No Party!](https://xeladu.medium.com/no-ai-no-party-adcaae562055?source=rss-ae1e6291afc3------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### QuickCoder blog posts
