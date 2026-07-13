@@ -23,11 +23,11 @@ My name is Alex, I’m from Germany and I am a passionate software developer for
 
 ### QuickCoder blog posts
 <!-- QC-BLOG-POST-LIST:START -->
+- [How To Enable Test Purchases For Your Android Apps](https://quickcoder.org/how-to-enable-test-purchases-for-your-android-apps/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-enable-test-purchases-for-your-android-apps)
 - [Why Does Copilot Suddenly Appear In GitHub Commit Messages?!](https://quickcoder.org/copilot-in-github-commit-messages/?utm_source=rss&utm_medium=rss&utm_campaign=copilot-in-github-commit-messages)
 - [Hate The AI Slop In Windows? Here Is How To Disable AI in Windows](https://quickcoder.org/disable-ai-in-windows/?utm_source=rss&utm_medium=rss&utm_campaign=disable-ai-in-windows)
 - [How To Use Google Fonts In Your Flutter App](https://quickcoder.org/how-to-use-google-fonts-in-your-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-use-google-fonts-in-your-flutter-app)
 - [How To Handle Tap Gestures In Widget Tests](https://quickcoder.org/how-to-handle-tap-gestures-in-widget-tests/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-handle-tap-gestures-in-widget-tests)
-- [How To Test Your Responsive Flutter App](https://quickcoder.org/how-to-test-your-responsive-flutter-app/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-test-your-responsive-flutter-app)
 <!-- QC-BLOG-POST-LIST:END -->
 
 ### Other contributions
